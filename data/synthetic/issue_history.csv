@@ -1,0 +1,964 @@
+Key,Summary,ActivityDate,From,To,Current Status,Issue Created Time,Story Points,Epic Key,Team,Assignee
+LRK-1001,Purchase Orders - Discovery,2026-02-19 16:50:09.000,Ready for Acceptance,Done,Done,2025-12-20 12:28:30,2.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1001,Purchase Orders - Discovery,2026-02-19 08:36:35.850,Ready for QA,Ready for Acceptance,Done,2025-12-20 12:28:30,2.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1001,Purchase Orders - Discovery,2026-02-18 18:54:00.600,In Progress,Ready for QA,Done,2025-12-20 12:28:30,2.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1001,Purchase Orders - Discovery,2026-02-17 09:59:48.000,To Do,In Progress,Done,2025-12-20 12:28:30,2.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1002,Purchase Orders - Staging QA,2026-01-26 14:14:59.000,In Progress,Ready for QA,Done,2026-01-15 12:02:08,3.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1002,Purchase Orders - Staging QA,2026-01-26 14:14:59.000,Ready for QA,Ready for Acceptance,Done,2026-01-15 12:02:08,3.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1002,Purchase Orders - Staging QA,2026-01-26 14:14:59.000,Ready for Acceptance,Done,Done,2026-01-15 12:02:08,3.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1002,Purchase Orders - Staging QA,2026-01-22 09:48:55.000,To Do,In Progress,Done,2026-01-15 12:02:08,3.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1003,Purchase Orders - Business Requirements,2026-05-29 11:37:49.000,To Do,Done,Done,2026-04-16 15:12:43,2.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1004,Purchase Orders - Raw Vault Model,2026-03-30 16:30:36.000,In Progress,Ready for QA,Done,2026-03-07 16:52:11,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1004,Purchase Orders - Raw Vault Model,2026-03-30 16:30:36.000,Ready for QA,Ready for Acceptance,Done,2026-03-07 16:52:11,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1004,Purchase Orders - Raw Vault Model,2026-03-30 16:30:36.000,Ready for Acceptance,Done,Done,2026-03-07 16:52:11,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1004,Purchase Orders - Raw Vault Model,2026-03-26 09:42:38.000,To Do,In Progress,Done,2026-03-07 16:52:11,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1005,Purchase Orders - Raw Vault ETL,2026-04-21 14:35:26.000,Ready for Acceptance,Done,Done,2026-03-04 08:03:39,2.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1005,Purchase Orders - Raw Vault ETL,2026-04-20 22:11:05.450,Ready for QA,Ready for Acceptance,Done,2026-03-04 08:03:39,2.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1005,Purchase Orders - Raw Vault ETL,2026-04-17 02:50:31.200,In Progress,Ready for QA,Done,2026-03-04 08:03:39,2.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1005,Purchase Orders - Raw Vault ETL,2026-04-10 09:13:09.000,To Do,In Progress,Done,2026-03-04 08:03:39,2.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-15 14:29:52.000,Ready for Acceptance,Done,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-14 16:13:13.750,Ready for QA,Ready for Acceptance,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-13 03:05:30.000,In Progress,Ready for QA,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-09 09:58:57.000,To Do,In Progress,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-07 14:14:03.000,In Progress,To Do,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1006,Purchase Orders - Business Vault Model,2026-04-06 09:14:03.000,To Do,In Progress,Done,2026-03-02 14:57:09,3.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1007,Purchase Orders - Business Vault ETL,2026-04-23 13:02:10.000,Ready for Acceptance,Done,Done,2026-02-22 15:28:56,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1007,Purchase Orders - Business Vault ETL,2026-04-22 04:15:58.900,Ready for QA,Ready for Acceptance,Done,2026-02-22 15:28:56,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1007,Purchase Orders - Business Vault ETL,2026-04-20 21:39:00.400,In Progress,Ready for QA,Done,2026-02-22 15:28:56,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1007,Purchase Orders - Business Vault ETL,2026-04-14 10:34:16.000,To Do,In Progress,Done,2026-02-22 15:28:56,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1008,Purchase Orders - Business Vault QA,2026-06-08 15:45:03.000,Ready for QA,Ready for Acceptance,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1008,Purchase Orders - Business Vault QA,2026-06-08 15:45:03.000,Ready for Acceptance,Done,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1008,Purchase Orders - Business Vault QA,2026-06-08 13:40:49.000,In Progress,Ready for QA,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1008,Purchase Orders - Business Vault QA,2026-06-03 10:34:28.000,To Do,In Progress,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1008,Purchase Orders - Business Vault QA,2026-05-30 14:12:14.000,In Progress,To Do,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1008,Purchase Orders - Business Vault QA,2026-05-29 09:12:14.000,To Do,In Progress,Done,2026-04-19 13:34:03,5.0,LRK-101,Supply Chain Pod,Member 14
+LRK-1009,Purchase Orders - Info Mart Model,2026-01-26 15:03:35.000,Ready for Acceptance,Done,Done,2025-11-19 08:54:07,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1009,Purchase Orders - Info Mart Model,2026-01-23 17:42:00.200,Ready for QA,Ready for Acceptance,Done,2025-11-19 08:54:07,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1009,Purchase Orders - Info Mart Model,2026-01-20 22:06:02.200,In Progress,Ready for QA,Done,2025-11-19 08:54:07,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1009,Purchase Orders - Info Mart Model,2026-01-07 08:39:43.000,To Do,In Progress,Done,2025-11-19 08:54:07,2.0,LRK-101,Supply Chain Pod,Member 13
+LRK-1010,Purchase Orders - Info Mart ETL,2026-05-04 17:50:48.000,Ready for QA,Ready for Acceptance,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1010,Purchase Orders - Info Mart ETL,2026-05-04 17:50:48.000,Ready for Acceptance,Done,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1010,Purchase Orders - Info Mart ETL,2026-04-29 19:24:46.400,In Progress,Ready for QA,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1010,Purchase Orders - Info Mart ETL,2026-04-22 09:45:44.000,To Do,In Progress,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1010,Purchase Orders - Info Mart ETL,2026-04-17 15:09:24.000,In Progress,To Do,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1010,Purchase Orders - Info Mart ETL,2026-04-16 10:09:24.000,To Do,In Progress,Done,2026-02-21 12:31:45,2.0,LRK-101,Supply Chain Pod,Member 11
+LRK-1011,Purchase Orders - Visual Report,2026-05-14 14:20:18.000,Ready for Acceptance,Done,Done,2026-04-04 12:47:57,1.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1011,Purchase Orders - Visual Report,2026-05-14 09:58:14.250,Ready for QA,Ready for Acceptance,Done,2026-04-04 12:47:57,1.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1011,Purchase Orders - Visual Report,2026-05-14 02:41:28.000,In Progress,Ready for QA,Done,2026-04-04 12:47:57,1.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1011,Purchase Orders - Visual Report,2026-05-13 09:13:13.000,To Do,In Progress,Done,2026-04-04 12:47:57,1.0,LRK-101,Supply Chain Pod,Member 15
+LRK-1012,Purchase Orders - Prod Release Deployment,2026-06-04 16:44:34.000,Ready for Acceptance,Done,Done,2026-05-10 09:16:05,3.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1012,Purchase Orders - Prod Release Deployment,2026-06-04 08:33:49.600,Ready for QA,Ready for Acceptance,Done,2026-05-10 09:16:05,3.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1012,Purchase Orders - Prod Release Deployment,2026-06-03 18:55:55.600,In Progress,Ready for QA,Done,2026-05-10 09:16:05,3.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1012,Purchase Orders - Prod Release Deployment,2026-06-02 10:12:58.000,To Do,In Progress,Done,2026-05-10 09:16:05,3.0,LRK-101,Supply Chain Pod,Member 12
+LRK-1013,Shipments - Staging ETL,2026-04-28 13:35:06.000,Ready for Acceptance,Done,Done,2026-02-26 16:17:19,3.0,LRK-102,Supply Chain Pod,Member 11
+LRK-1013,Shipments - Staging ETL,2026-04-27 15:28:39.600,Ready for QA,Ready for Acceptance,Done,2026-02-26 16:17:19,3.0,LRK-102,Supply Chain Pod,Member 11
+LRK-1013,Shipments - Staging ETL,2026-04-27 02:37:55.600,In Progress,Ready for QA,Done,2026-02-26 16:17:19,3.0,LRK-102,Supply Chain Pod,Member 11
+LRK-1013,Shipments - Staging ETL,2026-04-22 10:12:10.000,To Do,In Progress,Done,2026-02-26 16:17:19,3.0,LRK-102,Supply Chain Pod,Member 11
+LRK-1014,Shipments - Staging QA,2026-05-22 13:11:44.000,Ready for Acceptance,Done,Done,2026-04-19 09:35:27,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1014,Shipments - Staging QA,2026-05-22 05:23:09.950,Ready for QA,Ready for Acceptance,Done,2026-04-19 09:35:27,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1014,Shipments - Staging QA,2026-05-21 16:22:13.200,In Progress,Ready for QA,Done,2026-04-19 09:35:27,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1014,Shipments - Staging QA,2026-05-20 09:07:57.000,To Do,In Progress,Done,2026-04-19 09:35:27,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1015,Shipments - Business Requirements,2026-01-09 17:54:17.000,Ready for Acceptance,Done,Done,2025-11-19 14:48:53,3.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1015,Shipments - Business Requirements,2026-01-09 02:27:31.550,Ready for QA,Ready for Acceptance,Done,2025-11-19 14:48:53,3.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1015,Shipments - Business Requirements,2026-01-08 00:42:55.800,In Progress,Ready for QA,Done,2025-11-19 14:48:53,3.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1015,Shipments - Business Requirements,2026-01-05 10:55:54.000,To Do,In Progress,Done,2025-11-19 14:48:53,3.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1016,Shipments - Raw Vault Model,2026-03-03 13:27:18.000,Ready for Acceptance,Done,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1016,Shipments - Raw Vault Model,2026-02-24 04:19:28.200,Ready for QA,Ready for Acceptance,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1016,Shipments - Raw Vault Model,2026-02-11 21:06:25.200,In Progress,Ready for QA,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1016,Shipments - Raw Vault Model,2026-01-13 08:35:06.000,To Do,In Progress,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1016,Shipments - Raw Vault Model,2026-01-10 15:11:58.000,In Progress,To Do,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1016,Shipments - Raw Vault Model,2026-01-09 10:11:58.000,To Do,In Progress,Done,2025-12-12 08:15:15,1.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1017,Shipments - Raw Vault ETL,2026-06-16 17:34:20.000,Ready for Acceptance,Done,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1017,Shipments - Raw Vault ETL,2026-06-15 23:27:27.200,Ready for QA,Ready for Acceptance,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1017,Shipments - Raw Vault ETL,2026-06-09 09:15:59.200,In Progress,Ready for QA,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1017,Shipments - Raw Vault ETL,2026-05-29 08:48:28.000,To Do,In Progress,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1017,Shipments - Raw Vault ETL,2026-05-27 13:11:45.000,In Progress,To Do,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1017,Shipments - Raw Vault ETL,2026-05-26 08:11:45.000,To Do,In Progress,Done,2026-04-16 15:26:39,3.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1018,Shipments - Business Vault ETL,2026-03-04 16:29:11.000,Ready for Acceptance,Done,Done,2026-02-02 13:07:47,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1018,Shipments - Business Vault ETL,2026-03-03 07:05:31.250,Ready for QA,Ready for Acceptance,Done,2026-02-02 13:07:47,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1018,Shipments - Business Vault ETL,2026-03-02 23:26:05.000,In Progress,Ready for QA,Done,2026-02-02 13:07:47,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1018,Shipments - Business Vault ETL,2026-02-23 09:51:26.000,To Do,In Progress,Done,2026-02-02 13:07:47,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1019,Shipments - Business Vault QA,2026-03-06 13:43:18.000,Ready for Acceptance,Done,Done,2026-01-23 10:36:47,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1019,Shipments - Business Vault QA,2026-03-06 05:40:20.850,Ready for QA,Ready for Acceptance,Done,2026-01-23 10:36:47,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1019,Shipments - Business Vault QA,2026-03-05 16:15:25.600,In Progress,Ready for QA,Done,2026-01-23 10:36:47,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1019,Shipments - Business Vault QA,2026-03-04 08:03:37.000,To Do,In Progress,Done,2026-01-23 10:36:47,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1020,Shipments - Info Mart Model,2026-05-21 15:52:27.000,Ready for Acceptance,Done,Done,2026-05-02 09:20:01,5.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1020,Shipments - Info Mart Model,2026-05-20 13:40:24.300,Ready for QA,Ready for Acceptance,Done,2026-05-02 09:20:01,5.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1020,Shipments - Info Mart Model,2026-05-18 18:00:19.800,In Progress,Ready for QA,Done,2026-05-02 09:20:01,5.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1020,Shipments - Info Mart Model,2026-05-14 09:12:09.000,To Do,In Progress,Done,2026-05-02 09:20:01,5.0,LRK-102,Supply Chain Pod,Member 13
+LRK-1021,Shipments - Info Mart QA,2026-04-06 14:12:42.000,Ready for Acceptance,Done,Done,2026-03-24 13:22:50,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1021,Shipments - Info Mart QA,2026-04-06 07:11:56.800,In Progress,Ready for QA,Done,2026-03-24 13:22:50,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1021,Shipments - Info Mart QA,2026-04-06 07:11:56.800,Ready for QA,Ready for Acceptance,Done,2026-03-24 13:22:50,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1021,Shipments - Info Mart QA,2026-04-03 08:40:49.000,To Do,In Progress,Done,2026-03-24 13:22:50,3.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1022,Shipments - Dashboard Build,2026-02-23 13:38:04.000,Ready for QA,Ready for Acceptance,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1022,Shipments - Dashboard Build,2026-02-23 13:38:04.000,Ready for Acceptance,Done,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1022,Shipments - Dashboard Build,2026-02-19 02:05:12.000,In Progress,Ready for QA,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1022,Shipments - Dashboard Build,2026-02-12 08:45:54.000,To Do,In Progress,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1022,Shipments - Dashboard Build,2026-02-11 15:34:52.000,In Progress,To Do,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1022,Shipments - Dashboard Build,2026-02-10 10:34:52.000,To Do,In Progress,Done,2025-12-21 12:35:04,2.0,LRK-102,Supply Chain Pod,Member 15
+LRK-1023,Shipments - Prod Release Deployment,2026-05-22 15:27:05.000,Ready for Acceptance,Done,Done,2026-03-30 10:45:49,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1023,Shipments - Prod Release Deployment,2026-05-22 07:27:40.400,Ready for QA,Ready for Acceptance,Done,2026-03-30 10:45:49,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1023,Shipments - Prod Release Deployment,2026-05-21 18:08:39.400,In Progress,Ready for QA,Done,2026-03-30 10:45:49,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1023,Shipments - Prod Release Deployment,2026-05-20 10:11:01.000,To Do,In Progress,Done,2026-03-30 10:45:49,2.0,LRK-102,Supply Chain Pod,Member 12
+LRK-1024,Shipments - Data Validation,2026-01-16 14:15:44.000,Ready for Acceptance,Done,Done,2025-11-28 12:49:51,5.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1024,Shipments - Data Validation,2026-01-16 06:31:49.850,Ready for QA,Ready for Acceptance,Done,2025-11-28 12:49:51,5.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1024,Shipments - Data Validation,2026-01-15 17:38:39.600,In Progress,Ready for QA,Done,2025-11-28 12:49:51,5.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1024,Shipments - Data Validation,2026-01-14 10:43:03.000,To Do,In Progress,Done,2025-11-28 12:49:51,5.0,LRK-102,Supply Chain Pod,Member 14
+LRK-1025,Supplier Master - Discovery,2026-02-25 15:02:20.000,Ready for Acceptance,Done,Done,2026-01-11 09:11:52,2.0,LRK-103,Supply Chain Pod,Member 15
+LRK-1025,Supplier Master - Discovery,2026-02-24 20:19:56.450,Ready for QA,Ready for Acceptance,Done,2026-01-11 09:11:52,2.0,LRK-103,Supply Chain Pod,Member 15
+LRK-1025,Supplier Master - Discovery,2026-02-23 13:09:17.200,In Progress,Ready for QA,Done,2026-01-11 09:11:52,2.0,LRK-103,Supply Chain Pod,Member 15
+LRK-1025,Supplier Master - Discovery,2026-02-20 10:19:43.000,To Do,In Progress,Done,2026-01-11 09:11:52,2.0,LRK-103,Supply Chain Pod,Member 15
+LRK-1026,Supplier Master - Staging ETL,2026-01-27 13:45:55.000,Ready for Acceptance,Done,Done,2025-12-25 16:32:01,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1026,Supplier Master - Staging ETL,2026-01-26 17:04:16.600,In Progress,Ready for QA,Done,2025-12-25 16:32:01,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1026,Supplier Master - Staging ETL,2026-01-26 17:04:16.600,Ready for QA,Ready for Acceptance,Done,2025-12-25 16:32:01,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1026,Supplier Master - Staging ETL,2026-01-20 10:01:49.000,To Do,In Progress,Done,2025-12-25 16:32:01,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1027,Supplier Master - Staging Model,2026-06-08 13:57:26.000,Ready for QA,Ready for Acceptance,Done,2026-05-11 14:54:49,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1027,Supplier Master - Staging Model,2026-06-08 13:57:26.000,Ready for Acceptance,Done,Done,2026-05-11 14:54:49,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1027,Supplier Master - Staging Model,2026-06-08 11:37:26.000,In Progress,Ready for QA,Done,2026-05-11 14:54:49,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1027,Supplier Master - Staging Model,2026-06-03 08:07:26.000,To Do,In Progress,Done,2026-05-11 14:54:49,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1028,Supplier Master - Staging QA,2026-05-14 14:18:26.000,Ready for Acceptance,Done,Done,2026-04-27 12:54:45,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1028,Supplier Master - Staging QA,2026-05-14 06:10:52.700,Ready for QA,Ready for Acceptance,Done,2026-04-27 12:54:45,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1028,Supplier Master - Staging QA,2026-05-13 16:38:17.200,In Progress,Ready for QA,Done,2026-04-27 12:54:45,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1028,Supplier Master - Staging QA,2026-05-12 08:08:04.000,To Do,In Progress,Done,2026-04-27 12:54:45,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1029,Supplier Master - Raw Vault ETL,2026-05-01 15:01:59.000,Ready for Acceptance,Done,Done,2026-04-15 16:59:17,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1029,Supplier Master - Raw Vault ETL,2026-04-30 09:34:34.250,Ready for QA,Ready for Acceptance,Done,2026-04-15 16:59:17,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1029,Supplier Master - Raw Vault ETL,2026-04-28 08:28:53.000,In Progress,Ready for QA,Done,2026-04-15 16:59:17,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1029,Supplier Master - Raw Vault ETL,2026-04-23 10:39:14.000,To Do,In Progress,Done,2026-04-15 16:59:17,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1030,Supplier Master - Business Vault Model,2026-03-31 16:49:30.000,Ready for Acceptance,Done,Done,2026-03-06 09:34:51,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1030,Supplier Master - Business Vault Model,2026-03-30 00:13:44.850,Ready for QA,Ready for Acceptance,Done,2026-03-06 09:34:51,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1030,Supplier Master - Business Vault Model,2026-03-27 04:34:09.600,In Progress,Ready for QA,Done,2026-03-06 09:34:51,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1030,Supplier Master - Business Vault Model,2026-03-20 10:11:09.000,To Do,In Progress,Done,2026-03-06 09:34:51,2.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1031,Supplier Master - Business Vault ETL,2026-04-21 13:14:13.000,Ready for Acceptance,Done,Done,2026-02-08 11:56:47,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1031,Supplier Master - Business Vault ETL,2026-04-20 13:49:37.300,Ready for QA,Ready for Acceptance,Done,2026-02-08 11:56:47,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1031,Supplier Master - Business Vault ETL,2026-04-16 06:48:37.800,In Progress,Ready for QA,Done,2026-02-08 11:56:47,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1031,Supplier Master - Business Vault ETL,2026-04-08 09:10:15.000,To Do,In Progress,Done,2026-02-08 11:56:47,3.0,LRK-103,Supply Chain Pod,Member 12
+LRK-1032,Supplier Master - Business Vault QA,2026-05-19 15:14:54.000,Ready for Acceptance,Done,Done,2026-04-21 14:30:26,8.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1032,Supplier Master - Business Vault QA,2026-05-18 19:13:43.200,Ready for QA,Ready for Acceptance,Done,2026-04-21 14:30:26,8.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1032,Supplier Master - Business Vault QA,2026-05-14 17:51:45.200,In Progress,Ready for QA,Done,2026-04-21 14:30:26,8.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1032,Supplier Master - Business Vault QA,2026-05-07 09:47:02.000,To Do,In Progress,Done,2026-04-21 14:30:26,8.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1033,Supplier Master - Info Mart Model,2026-03-26 17:19:10.000,Ready for Acceptance,Done,Done,2026-03-06 14:47:49,5.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1033,Supplier Master - Info Mart Model,2026-03-25 04:19:38.050,Ready for QA,Ready for Acceptance,Done,2026-03-06 14:47:49,5.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1033,Supplier Master - Info Mart Model,2026-03-23 14:40:24.800,In Progress,Ready for QA,Done,2026-03-06 14:47:49,5.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1033,Supplier Master - Info Mart Model,2026-03-16 10:42:17.000,To Do,In Progress,Done,2026-03-06 14:47:49,5.0,LRK-103,Supply Chain Pod,Member 13
+LRK-1034,Supplier Master - Info Mart ETL,2026-05-12 13:22:34.000,Ready for Acceptance,Done,Done,2026-04-02 16:50:35,2.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1034,Supplier Master - Info Mart ETL,2026-05-11 10:36:40.150,Ready for QA,Ready for Acceptance,Done,2026-04-02 16:50:35,2.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1034,Supplier Master - Info Mart ETL,2026-05-06 22:00:10.400,In Progress,Ready for QA,Done,2026-04-02 16:50:35,2.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1034,Supplier Master - Info Mart ETL,2026-04-28 10:56:35.000,To Do,In Progress,Done,2026-04-02 16:50:35,2.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1035,Supplier Master - Info Mart QA,2026-01-26 14:50:43.000,Ready for QA,Ready for Acceptance,Done,2025-12-31 13:48:27,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1035,Supplier Master - Info Mart QA,2026-01-26 14:50:43.000,Ready for Acceptance,Done,Done,2025-12-31 13:48:27,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1035,Supplier Master - Info Mart QA,2026-01-26 03:38:24.600,In Progress,Ready for QA,Done,2025-12-31 13:48:27,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1035,Supplier Master - Info Mart QA,2026-01-20 10:49:57.000,To Do,In Progress,Done,2025-12-31 13:48:27,5.0,LRK-103,Supply Chain Pod,Member 14
+LRK-1036,Supplier Master - Prod Release Deployment,2026-03-16 15:31:55.000,In Progress,Ready for QA,Ready for QA,2026-02-21 08:33:31,3.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1036,Supplier Master - Prod Release Deployment,2026-03-12 10:45:28.000,To Do,In Progress,Ready for QA,2026-02-21 08:33:31,3.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1036,Supplier Master - Prod Release Deployment,2026-03-10 15:44:43.000,In Progress,To Do,Ready for QA,2026-02-21 08:33:31,3.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1036,Supplier Master - Prod Release Deployment,2026-03-09 10:44:43.000,To Do,In Progress,Ready for QA,2026-02-21 08:33:31,3.0,LRK-103,Supply Chain Pod,Member 11
+LRK-1037,Warehouse Stock - Discovery,2026-02-23 17:37:02.000,Ready for QA,Ready for Acceptance,Done,2025-12-26 12:11:44,2.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1037,Warehouse Stock - Discovery,2026-02-23 17:37:02.000,Ready for Acceptance,Done,Done,2025-12-26 12:11:44,2.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1037,Warehouse Stock - Discovery,2026-02-23 04:56:30.000,In Progress,Ready for QA,Done,2025-12-26 12:11:44,2.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1037,Warehouse Stock - Discovery,2026-02-17 09:55:42.000,To Do,In Progress,Done,2025-12-26 12:11:44,2.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1038,Warehouse Stock - Business Requirements,2026-04-15 17:30:03.000,Ready for Acceptance,Done,Done,2026-03-04 11:24:06,3.0,LRK-104,Supply Chain Pod,Member 16
+LRK-1038,Warehouse Stock - Business Requirements,2026-04-15 09:03:09.150,Ready for QA,Ready for Acceptance,Done,2026-03-04 11:24:06,3.0,LRK-104,Supply Chain Pod,Member 16
+LRK-1038,Warehouse Stock - Business Requirements,2026-04-14 18:58:19.400,In Progress,Ready for QA,Done,2026-03-04 11:24:06,3.0,LRK-104,Supply Chain Pod,Member 16
+LRK-1038,Warehouse Stock - Business Requirements,2026-04-13 09:10:44.000,To Do,In Progress,Done,2026-03-04 11:24:06,3.0,LRK-104,Supply Chain Pod,Member 16
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-03-06 17:49:39.000,Ready for Acceptance,Done,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-03-06 05:54:46.800,Ready for QA,Ready for Acceptance,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-03-05 10:03:19.800,In Progress,Ready for QA,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-03-03 10:23:51.000,To Do,In Progress,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-02-26 15:26:45.000,In Progress,To Do,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1039,Warehouse Stock - Raw Vault Model,2026-02-25 10:26:45.000,To Do,In Progress,Done,2026-01-07 11:22:50,5.0,LRK-104,Supply Chain Pod,Member 13
+LRK-1040,Warehouse Stock - Raw Vault ETL,2026-04-22 15:55:22.000,Ready for Acceptance,Done,Done,2026-03-22 11:06:11,3.0,LRK-104,Supply Chain Pod,Member 12
+LRK-1040,Warehouse Stock - Raw Vault ETL,2026-04-21 17:19:38.800,Ready for QA,Ready for Acceptance,Done,2026-03-22 11:06:11,3.0,LRK-104,Supply Chain Pod,Member 12
+LRK-1040,Warehouse Stock - Raw Vault ETL,2026-04-20 03:40:06.800,In Progress,Ready for QA,Done,2026-03-22 11:06:11,3.0,LRK-104,Supply Chain Pod,Member 12
+LRK-1040,Warehouse Stock - Raw Vault ETL,2026-04-16 09:17:14.000,To Do,In Progress,Done,2026-03-22 11:06:11,3.0,LRK-104,Supply Chain Pod,Member 12
+LRK-1041,Warehouse Stock - Raw Vault QA,2026-05-04 14:51:13.000,In Progress,Ready for QA,Done,2026-03-04 10:53:51,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1041,Warehouse Stock - Raw Vault QA,2026-05-04 14:51:13.000,Ready for QA,Ready for Acceptance,Done,2026-03-04 10:53:51,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1041,Warehouse Stock - Raw Vault QA,2026-05-04 14:51:13.000,Ready for Acceptance,Done,Done,2026-03-04 10:53:51,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1041,Warehouse Stock - Raw Vault QA,2026-04-30 09:19:53.000,To Do,In Progress,Done,2026-03-04 10:53:51,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1042,Warehouse Stock - Business Vault ETL,2026-02-04 16:32:18.000,Ready for Acceptance,Done,Done,2025-12-30 16:25:16,3.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1042,Warehouse Stock - Business Vault ETL,2026-02-02 11:58:52.500,Ready for QA,Ready for Acceptance,Done,2025-12-30 16:25:16,3.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1042,Warehouse Stock - Business Vault ETL,2026-01-27 04:23:10.000,In Progress,Ready for QA,Done,2025-12-30 16:25:16,3.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1042,Warehouse Stock - Business Vault ETL,2026-01-14 10:09:28.000,To Do,In Progress,Done,2025-12-30 16:25:16,3.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1043,Warehouse Stock - Business Vault QA,2026-02-05 18:49:58.400,In Progress,Ready for QA,Ready for QA,2026-01-02 14:48:46,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1043,Warehouse Stock - Business Vault QA,2026-02-04 08:43:35.000,To Do,In Progress,Ready for QA,2026-01-02 14:48:46,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1044,Warehouse Stock - Info Mart ETL,2026-04-30 16:51:18.000,Ready for Acceptance,Done,Done,2026-03-22 13:53:15,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1044,Warehouse Stock - Info Mart ETL,2026-04-27 15:36:23.250,Ready for QA,Ready for Acceptance,Done,2026-03-22 13:53:15,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1044,Warehouse Stock - Info Mart ETL,2026-04-22 13:31:32.000,In Progress,Ready for QA,Done,2026-03-22 13:53:15,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1044,Warehouse Stock - Info Mart ETL,2026-04-10 08:31:53.000,To Do,In Progress,Done,2026-03-22 13:53:15,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1045,Warehouse Stock - Info Mart QA,2026-03-10 14:29:46.000,Ready for Acceptance,Done,Done,2026-02-25 13:25:58,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1045,Warehouse Stock - Info Mart QA,2026-03-09 19:56:31.750,Ready for QA,Ready for Acceptance,Done,2026-02-25 13:25:58,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1045,Warehouse Stock - Info Mart QA,2026-03-09 13:01:08.000,In Progress,Ready for QA,Done,2026-02-25 13:25:58,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1045,Warehouse Stock - Info Mart QA,2026-03-05 10:48:11.000,To Do,In Progress,Done,2026-02-25 13:25:58,2.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1046,Warehouse Stock - Dashboard Build,2026-05-29 14:23:26.000,Ready for Acceptance,Done,Done,2026-04-14 13:48:46,3.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1046,Warehouse Stock - Dashboard Build,2026-05-28 08:40:57.050,Ready for QA,Ready for Acceptance,Done,2026-04-14 13:48:46,3.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1046,Warehouse Stock - Dashboard Build,2026-05-26 07:10:08.800,In Progress,Ready for QA,Done,2026-04-14 13:48:46,3.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1046,Warehouse Stock - Dashboard Build,2026-05-21 08:20:13.000,To Do,In Progress,Done,2026-04-14 13:48:46,3.0,LRK-104,Supply Chain Pod,Member 15
+LRK-1047,Warehouse Stock - Prod Release Deployment,2026-04-14 13:50:00.000,Ready for Acceptance,Done,Done,2026-02-19 09:21:10,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1047,Warehouse Stock - Prod Release Deployment,2026-04-13 23:00:04.950,Ready for QA,Ready for Acceptance,Done,2026-02-19 09:21:10,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1047,Warehouse Stock - Prod Release Deployment,2026-04-13 22:16:53.200,In Progress,Ready for QA,Done,2026-02-19 09:21:10,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1047,Warehouse Stock - Prod Release Deployment,2026-04-10 10:57:13.000,To Do,In Progress,Done,2026-02-19 09:21:10,2.0,LRK-104,Supply Chain Pod,Member 11
+LRK-1048,Warehouse Stock - Data Validation,2026-02-02 16:09:36.000,In Progress,Ready for QA,Done,2026-01-16 08:16:45,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1048,Warehouse Stock - Data Validation,2026-02-02 16:09:36.000,Ready for QA,Ready for Acceptance,Done,2026-01-16 08:16:45,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1048,Warehouse Stock - Data Validation,2026-02-02 16:09:36.000,Ready for Acceptance,Done,Done,2026-01-16 08:16:45,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1048,Warehouse Stock - Data Validation,2026-01-29 10:26:37.000,To Do,In Progress,Done,2026-01-16 08:16:45,3.0,LRK-104,Supply Chain Pod,Member 14
+LRK-1049,Carrier Lanes - Discovery,2026-05-15 17:36:46.000,Ready for Acceptance,Done,Done,2026-03-23 14:54:56,1.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1049,Carrier Lanes - Discovery,2026-05-15 05:47:05.950,Ready for QA,Ready for Acceptance,Done,2026-03-23 14:54:56,1.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1049,Carrier Lanes - Discovery,2026-05-14 10:04:19.200,In Progress,Ready for QA,Done,2026-03-23 14:54:56,1.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1049,Carrier Lanes - Discovery,2026-05-12 10:45:39.000,To Do,In Progress,Done,2026-03-23 14:54:56,1.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1050,Carrier Lanes - Staging ETL,2026-02-24 15:07:33.000,Ready for Acceptance,Done,Done,2026-02-06 11:43:15,3.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1050,Carrier Lanes - Staging ETL,2026-02-23 19:15:59.700,Ready for QA,Ready for Acceptance,Done,2026-02-06 11:43:15,3.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1050,Carrier Lanes - Staging ETL,2026-02-19 18:10:04.200,In Progress,Ready for QA,Done,2026-02-06 11:43:15,3.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1050,Carrier Lanes - Staging ETL,2026-02-12 10:43:51.000,To Do,In Progress,Done,2026-02-06 11:43:15,3.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1051,Carrier Lanes - Staging QA,2026-02-23 16:05:47.000,Ready for Acceptance,Done,Done,2025-12-06 12:33:55,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1051,Carrier Lanes - Staging QA,2026-02-20 11:33:58.400,Ready for QA,Ready for Acceptance,Done,2025-12-06 12:33:55,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1051,Carrier Lanes - Staging QA,2026-02-17 04:00:57.400,In Progress,Ready for QA,Done,2025-12-06 12:33:55,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1051,Carrier Lanes - Staging QA,2026-02-02 09:53:43.000,To Do,In Progress,Done,2025-12-06 12:33:55,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1052,Carrier Lanes - Raw Vault Model,2026-01-26 15:07:18.000,Ready for QA,Ready for Acceptance,Done,2026-01-03 08:47:02,2.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1052,Carrier Lanes - Raw Vault Model,2026-01-26 15:07:18.000,Ready for Acceptance,Done,Done,2026-01-03 08:47:02,2.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1052,Carrier Lanes - Raw Vault Model,2026-01-22 03:33:41.200,In Progress,Ready for QA,Done,2026-01-03 08:47:02,2.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1052,Carrier Lanes - Raw Vault Model,2026-01-15 10:13:16.000,To Do,In Progress,Done,2026-01-03 08:47:02,2.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1053,Carrier Lanes - Raw Vault ETL,2026-06-03 17:18:34.000,Ready for Acceptance,Done,Done,2026-04-18 11:02:34,2.0,LRK-105,Supply Chain Pod,Member 12
+LRK-1053,Carrier Lanes - Raw Vault ETL,2026-06-01 17:20:17.650,Ready for QA,Ready for Acceptance,Done,2026-04-18 11:02:34,2.0,LRK-105,Supply Chain Pod,Member 12
+LRK-1053,Carrier Lanes - Raw Vault ETL,2026-05-29 09:23:10.400,In Progress,Ready for QA,Done,2026-04-18 11:02:34,2.0,LRK-105,Supply Chain Pod,Member 12
+LRK-1053,Carrier Lanes - Raw Vault ETL,2026-05-21 09:30:05.000,To Do,In Progress,Done,2026-04-18 11:02:34,2.0,LRK-105,Supply Chain Pod,Member 12
+LRK-1054,Carrier Lanes - Raw Vault QA,2026-04-17 16:08:23.000,Ready for Acceptance,Done,Done,2026-02-25 15:55:17,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1054,Carrier Lanes - Raw Vault QA,2026-04-16 10:30:51.350,Ready for QA,Ready for Acceptance,Done,2026-02-25 15:55:17,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1054,Carrier Lanes - Raw Vault QA,2026-04-14 09:08:18.600,In Progress,Ready for QA,Done,2026-02-25 15:55:17,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1054,Carrier Lanes - Raw Vault QA,2026-04-09 10:38:12.000,To Do,In Progress,Done,2026-02-25 15:55:17,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1055,Carrier Lanes - Business Vault Model,2026-02-27 14:17:36.000,Ready for Acceptance,Done,Done,2025-12-29 13:42:13,1.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1055,Carrier Lanes - Business Vault Model,2026-02-27 02:37:21.000,Ready for QA,Ready for Acceptance,Done,2025-12-29 13:42:13,1.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1055,Carrier Lanes - Business Vault Model,2026-02-26 07:10:16.000,In Progress,Ready for QA,Done,2025-12-29 13:42:13,1.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1055,Carrier Lanes - Business Vault Model,2026-02-24 08:29:16.000,To Do,In Progress,Done,2025-12-29 13:42:13,1.0,LRK-105,Supply Chain Pod,Member 13
+LRK-1056,Carrier Lanes - Business Vault ETL,2026-05-14 13:16:37.200,In Progress,Ready for QA,Ready for QA,2026-04-21 13:16:11,1.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1056,Carrier Lanes - Business Vault ETL,2026-05-08 08:47:27.000,To Do,In Progress,Ready for QA,2026-04-21 13:16:11,1.0,LRK-105,Supply Chain Pod,Member 11
+LRK-1057,Carrier Lanes - Business Vault QA,2026-05-20 17:29:31.000,Ready for Acceptance,Done,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1057,Carrier Lanes - Business Vault QA,2026-05-14 05:39:24.250,Ready for QA,Ready for Acceptance,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1057,Carrier Lanes - Business Vault QA,2026-05-04 09:55:53.000,In Progress,Ready for QA,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1057,Carrier Lanes - Business Vault QA,2026-04-07 10:35:26.000,To Do,In Progress,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1057,Carrier Lanes - Business Vault QA,2026-04-02 15:28:48.000,In Progress,To Do,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1057,Carrier Lanes - Business Vault QA,2026-04-01 10:28:48.000,To Do,In Progress,Done,2026-02-27 08:23:07,3.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1058,Carrier Lanes - Info Mart QA,2026-04-01 15:02:44.000,Ready for Acceptance,Done,Done,2026-02-13 14:04:22,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1058,Carrier Lanes - Info Mart QA,2026-04-01 10:27:08.600,Ready for QA,Ready for Acceptance,Done,2026-02-13 14:04:22,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1058,Carrier Lanes - Info Mart QA,2026-04-01 02:47:49.600,In Progress,Ready for QA,Done,2026-02-13 14:04:22,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1058,Carrier Lanes - Info Mart QA,2026-03-31 08:25:28.000,To Do,In Progress,Done,2026-02-13 14:04:22,2.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1059,Carrier Lanes - Visual Report,2026-03-13 16:45:35.000,Ready for Acceptance,Done,Done,2026-02-19 08:04:34,2.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1059,Carrier Lanes - Visual Report,2026-03-12 10:52:55.400,Ready for QA,Ready for Acceptance,Done,2026-02-19 08:04:34,2.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1059,Carrier Lanes - Visual Report,2026-03-10 09:05:09.400,In Progress,Ready for QA,Done,2026-02-19 08:04:34,2.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1059,Carrier Lanes - Visual Report,2026-03-05 09:34:31.000,To Do,In Progress,Done,2026-02-19 08:04:34,2.0,LRK-105,Supply Chain Pod,Member 15
+LRK-1060,Carrier Lanes - Data Validation,2026-06-03 17:32:50.000,Ready for Acceptance,Done,Done,2026-04-24 11:11:27,5.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1060,Carrier Lanes - Data Validation,2026-06-02 22:17:25.850,Ready for QA,Ready for Acceptance,Done,2026-04-24 11:11:27,5.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1060,Carrier Lanes - Data Validation,2026-06-01 14:11:45.600,In Progress,Ready for QA,Done,2026-04-24 11:11:27,5.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1060,Carrier Lanes - Data Validation,2026-05-29 09:10:09.000,To Do,In Progress,Done,2026-04-24 11:11:27,5.0,LRK-105,Supply Chain Pod,Member 14
+LRK-1061,Ledger Entries - Staging Model,2026-04-10 16:10:09.000,Ready for Acceptance,Done,Done,2026-02-14 09:54:42,2.0,LRK-106,Finance Pod,Member 23
+LRK-1061,Ledger Entries - Staging Model,2026-04-10 00:38:48.300,Ready for QA,Ready for Acceptance,Done,2026-02-14 09:54:42,2.0,LRK-106,Finance Pod,Member 23
+LRK-1061,Ledger Entries - Staging Model,2026-04-08 22:46:33.800,In Progress,Ready for QA,Done,2026-02-14 09:54:42,2.0,LRK-106,Finance Pod,Member 23
+LRK-1061,Ledger Entries - Staging Model,2026-04-06 08:41:11.000,To Do,In Progress,Done,2026-02-14 09:54:42,2.0,LRK-106,Finance Pod,Member 23
+LRK-1062,Ledger Entries - Staging QA,2026-03-19 17:15:18.000,Ready for Acceptance,Done,Done,2026-02-10 14:28:26,3.0,LRK-106,Finance Pod,Member 24
+LRK-1062,Ledger Entries - Staging QA,2026-03-19 16:13:14.550,Ready for QA,Ready for Acceptance,Done,2026-02-10 14:28:26,3.0,LRK-106,Finance Pod,Member 24
+LRK-1062,Ledger Entries - Staging QA,2026-03-19 14:29:48.800,In Progress,Ready for QA,Done,2026-02-10 14:28:26,3.0,LRK-106,Finance Pod,Member 24
+LRK-1062,Ledger Entries - Staging QA,2026-03-19 10:21:35.000,To Do,In Progress,Done,2026-02-10 14:28:26,3.0,LRK-106,Finance Pod,Member 24
+LRK-1063,Ledger Entries - Business Requirements,2026-05-06 15:58:03.000,Ready for Acceptance,Done,Done,2026-03-31 15:32:09,1.0,LRK-106,Finance Pod,Member 26
+LRK-1063,Ledger Entries - Business Requirements,2026-05-05 21:01:13.650,Ready for QA,Ready for Acceptance,Done,2026-03-31 15:32:09,1.0,LRK-106,Finance Pod,Member 26
+LRK-1063,Ledger Entries - Business Requirements,2026-05-04 13:26:31.400,In Progress,Ready for QA,Done,2026-03-31 15:32:09,1.0,LRK-106,Finance Pod,Member 26
+LRK-1063,Ledger Entries - Business Requirements,2026-05-01 09:39:14.000,To Do,In Progress,Done,2026-03-31 15:32:09,1.0,LRK-106,Finance Pod,Member 26
+LRK-1064,Ledger Entries - Raw Vault Model,2026-06-04 15:45:51.000,Ready for Acceptance,Done,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1064,Ledger Entries - Raw Vault Model,2026-06-03 17:07:17.100,Ready for QA,Ready for Acceptance,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1064,Ledger Entries - Raw Vault Model,2026-06-02 03:23:00.600,In Progress,Ready for QA,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1064,Ledger Entries - Raw Vault Model,2026-05-29 08:48:45.000,To Do,In Progress,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1064,Ledger Entries - Raw Vault Model,2026-05-28 14:44:16.000,In Progress,To Do,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1064,Ledger Entries - Raw Vault Model,2026-05-27 09:44:16.000,To Do,In Progress,Done,2026-05-15 13:27:13,2.0,LRK-106,Finance Pod,Member 23
+LRK-1065,Ledger Entries - Raw Vault ETL,2026-04-07 16:08:25.000,Ready for Acceptance,Done,Done,2026-01-30 11:18:03,5.0,LRK-106,Finance Pod,Member 21
+LRK-1065,Ledger Entries - Raw Vault ETL,2026-04-06 20:05:04.450,Ready for QA,Ready for Acceptance,Done,2026-01-30 11:18:03,5.0,LRK-106,Finance Pod,Member 21
+LRK-1065,Ledger Entries - Raw Vault ETL,2026-04-02 18:39:30.200,In Progress,Ready for QA,Done,2026-01-30 11:18:03,5.0,LRK-106,Finance Pod,Member 21
+LRK-1065,Ledger Entries - Raw Vault ETL,2026-03-26 10:26:08.000,To Do,In Progress,Done,2026-01-30 11:18:03,5.0,LRK-106,Finance Pod,Member 21
+LRK-1066,Ledger Entries - Business Vault Model,2026-04-23 17:02:56.000,Ready for Acceptance,Done,Done,2026-03-01 09:20:58,3.0,LRK-106,Finance Pod,Member 23
+LRK-1066,Ledger Entries - Business Vault Model,2026-04-23 08:30:33.950,Ready for QA,Ready for Acceptance,Done,2026-03-01 09:20:58,3.0,LRK-106,Finance Pod,Member 23
+LRK-1066,Ledger Entries - Business Vault Model,2026-04-22 18:16:37.200,In Progress,Ready for QA,Done,2026-03-01 09:20:58,3.0,LRK-106,Finance Pod,Member 23
+LRK-1066,Ledger Entries - Business Vault Model,2026-04-21 08:07:09.000,To Do,In Progress,Done,2026-03-01 09:20:58,3.0,LRK-106,Finance Pod,Member 23
+LRK-1067,Ledger Entries - Business Vault ETL,2026-01-15 15:36:09.000,Ready for Acceptance,Done,Done,2025-12-15 13:52:04,8.0,LRK-106,Finance Pod,Member 22
+LRK-1067,Ledger Entries - Business Vault ETL,2026-01-14 13:37:54.150,Ready for QA,Ready for Acceptance,Done,2025-12-15 13:52:04,8.0,LRK-106,Finance Pod,Member 22
+LRK-1067,Ledger Entries - Business Vault ETL,2026-01-12 18:20:49.400,In Progress,Ready for QA,Done,2025-12-15 13:52:04,8.0,LRK-106,Finance Pod,Member 22
+LRK-1067,Ledger Entries - Business Vault ETL,2026-01-08 10:27:50.000,To Do,In Progress,Done,2025-12-15 13:52:04,8.0,LRK-106,Finance Pod,Member 22
+LRK-1068,Ledger Entries - Business Vault QA,2026-03-04 16:22:24.000,Ready for Acceptance,Done,Done,2026-02-03 13:46:42,5.0,LRK-106,Finance Pod,Member 24
+LRK-1068,Ledger Entries - Business Vault QA,2026-03-04 08:17:25.650,Ready for QA,Ready for Acceptance,Done,2026-02-03 13:46:42,5.0,LRK-106,Finance Pod,Member 24
+LRK-1068,Ledger Entries - Business Vault QA,2026-03-03 18:49:08.400,In Progress,Ready for QA,Done,2026-02-03 13:46:42,5.0,LRK-106,Finance Pod,Member 24
+LRK-1068,Ledger Entries - Business Vault QA,2026-03-02 10:29:15.000,To Do,In Progress,Done,2026-02-03 13:46:42,5.0,LRK-106,Finance Pod,Member 24
+LRK-1069,Ledger Entries - Info Mart Model,2026-06-01 14:49:45.000,Ready for QA,Ready for Acceptance,Done,2026-04-10 11:13:45,3.0,LRK-106,Finance Pod,Member 23
+LRK-1069,Ledger Entries - Info Mart Model,2026-06-01 14:49:45.000,Ready for Acceptance,Done,Done,2026-04-10 11:13:45,3.0,LRK-106,Finance Pod,Member 23
+LRK-1069,Ledger Entries - Info Mart Model,2026-06-01 03:04:19.800,In Progress,Ready for QA,Done,2026-04-10 11:13:45,3.0,LRK-106,Finance Pod,Member 23
+LRK-1069,Ledger Entries - Info Mart Model,2026-05-26 09:26:12.000,To Do,In Progress,Done,2026-04-10 11:13:45,3.0,LRK-106,Finance Pod,Member 23
+LRK-1070,Ledger Entries - Info Mart ETL,2026-04-03 14:18:38.000,Ready for Acceptance,Done,Done,2026-03-06 15:30:13,3.0,LRK-106,Finance Pod,Member 21
+LRK-1070,Ledger Entries - Info Mart ETL,2026-04-03 02:45:18.050,Ready for QA,Ready for Acceptance,Done,2026-03-06 15:30:13,3.0,LRK-106,Finance Pod,Member 21
+LRK-1070,Ledger Entries - Info Mart ETL,2026-04-02 07:29:44.800,In Progress,Ready for QA,Done,2026-03-06 15:30:13,3.0,LRK-106,Finance Pod,Member 21
+LRK-1070,Ledger Entries - Info Mart ETL,2026-03-31 09:16:25.000,To Do,In Progress,Done,2026-03-06 15:30:13,3.0,LRK-106,Finance Pod,Member 21
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-20 17:36:45.000,Ready for Acceptance,Done,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-20 09:15:25.350,Ready for QA,Ready for Acceptance,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-19 19:19:52.600,In Progress,Ready for QA,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-18 09:54:34.000,To Do,In Progress,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-12 15:29:38.000,In Progress,To Do,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1071,Ledger Entries - Info Mart QA,2026-02-11 10:29:38.000,To Do,In Progress,Done,2026-02-01 16:41:09,2.0,LRK-106,Finance Pod,Member 24
+LRK-1072,Ledger Entries - Data Validation,2026-04-03 14:27:36.000,Ready for Acceptance,Done,Done,2026-03-16 14:11:04,2.0,LRK-106,Finance Pod,Member 24
+LRK-1072,Ledger Entries - Data Validation,2026-04-03 09:55:22.050,Ready for QA,Ready for Acceptance,Done,2026-03-16 14:11:04,2.0,LRK-106,Finance Pod,Member 24
+LRK-1072,Ledger Entries - Data Validation,2026-04-03 02:21:38.800,In Progress,Ready for QA,Done,2026-03-16 14:11:04,2.0,LRK-106,Finance Pod,Member 24
+LRK-1072,Ledger Entries - Data Validation,2026-04-02 08:12:43.000,To Do,In Progress,Done,2026-03-16 14:11:04,2.0,LRK-106,Finance Pod,Member 24
+LRK-1073,Invoices Payable - Discovery,2026-01-23 12:55:31.600,In Progress,Ready for QA,Ready for QA,2025-11-24 10:32:04,2.0,LRK-107,Finance Pod,Member 25
+LRK-1073,Invoices Payable - Discovery,2026-01-14 08:55:58.000,To Do,In Progress,Ready for QA,2025-11-24 10:32:04,2.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-06-09 16:42:54.000,Ready for Acceptance,Done,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-06-08 10:37:36.900,Ready for QA,Ready for Acceptance,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-06-08 08:28:48.400,In Progress,Ready for QA,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-06-01 08:07:40.000,To Do,In Progress,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-05-29 14:01:50.000,In Progress,To Do,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1074,Invoices Payable - Business Requirements,2026-05-28 09:01:50.000,To Do,In Progress,Done,2026-05-13 13:55:05,5.0,LRK-107,Finance Pod,Member 25
+LRK-1075,Invoices Payable - Raw Vault QA,2026-03-25 14:35:43.000,Ready for Acceptance,Done,Done,2026-03-01 09:05:39,2.0,LRK-107,Finance Pod,Member 24
+LRK-1075,Invoices Payable - Raw Vault QA,2026-03-25 10:19:20.350,Ready for QA,Ready for Acceptance,Done,2026-03-01 09:05:39,2.0,LRK-107,Finance Pod,Member 24
+LRK-1075,Invoices Payable - Raw Vault QA,2026-03-25 03:12:02.600,In Progress,Ready for QA,Done,2026-03-01 09:05:39,2.0,LRK-107,Finance Pod,Member 24
+LRK-1075,Invoices Payable - Raw Vault QA,2026-03-24 10:06:32.000,To Do,In Progress,Done,2026-03-01 09:05:39,2.0,LRK-107,Finance Pod,Member 24
+LRK-1076,Invoices Payable - Business Vault Model,2026-05-27 09:53:18.000,To Do,Done,Done,2026-04-02 13:36:31,5.0,LRK-107,Finance Pod,Member 23
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-27 17:24:54.000,Ready for Acceptance,Done,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-24 09:09:09.600,Ready for QA,Ready for Acceptance,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-18 19:22:55.600,In Progress,Ready for QA,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-05 10:19:58.000,To Do,In Progress,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-04 15:38:10.000,In Progress,To Do,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1077,Invoices Payable - Business Vault ETL,2026-03-03 10:38:10.000,To Do,In Progress,Done,2026-01-19 15:48:57,2.0,LRK-107,Finance Pod,Member 21
+LRK-1078,Invoices Payable - Business Vault QA,2026-02-25 15:47:16.000,Ready for Acceptance,Done,Done,2026-01-27 08:43:26,3.0,LRK-107,Finance Pod,Member 24
+LRK-1078,Invoices Payable - Business Vault QA,2026-02-24 20:43:34.750,Ready for QA,Ready for Acceptance,Done,2026-01-27 08:43:26,3.0,LRK-107,Finance Pod,Member 24
+LRK-1078,Invoices Payable - Business Vault QA,2026-02-23 12:57:26.000,In Progress,Ready for QA,Done,2026-01-27 08:43:26,3.0,LRK-107,Finance Pod,Member 24
+LRK-1078,Invoices Payable - Business Vault QA,2026-02-20 08:42:41.000,To Do,In Progress,Done,2026-01-27 08:43:26,3.0,LRK-107,Finance Pod,Member 24
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-25 14:56:14.000,Ready for Acceptance,Done,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-24 09:15:46.400,Ready for QA,Ready for Acceptance,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-23 07:48:20.400,In Progress,Ready for QA,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-17 09:06:30.000,To Do,In Progress,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-13 13:42:34.000,In Progress,To Do,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1079,Invoices Payable - Info Mart Model,2026-03-12 08:42:34.000,To Do,In Progress,Done,2026-02-08 09:05:11,8.0,LRK-107,Finance Pod,Member 23
+LRK-1080,Invoices Payable - Info Mart ETL,2026-04-21 15:41:59.000,Ready for Acceptance,Done,Done,2026-01-27 14:50:53,2.0,LRK-107,Finance Pod,Member 21
+LRK-1080,Invoices Payable - Info Mart ETL,2026-04-13 01:37:34.250,Ready for QA,Ready for Acceptance,Done,2026-01-27 14:50:53,2.0,LRK-107,Finance Pod,Member 21
+LRK-1080,Invoices Payable - Info Mart ETL,2026-03-30 18:10:13.000,In Progress,Ready for QA,Done,2026-01-27 14:50:53,2.0,LRK-107,Finance Pod,Member 21
+LRK-1080,Invoices Payable - Info Mart ETL,2026-02-23 09:52:34.000,To Do,In Progress,Done,2026-01-27 14:50:53,2.0,LRK-107,Finance Pod,Member 21
+LRK-1081,Invoices Payable - Info Mart QA,2026-02-09 21:37:47.200,In Progress,Ready for QA,Ready for QA,2026-01-03 16:23:32,3.0,LRK-107,Finance Pod,Member 24
+LRK-1081,Invoices Payable - Info Mart QA,2026-02-06 09:15:43.000,To Do,In Progress,Ready for QA,2026-01-03 16:23:32,3.0,LRK-107,Finance Pod,Member 24
+LRK-1081,Invoices Payable - Info Mart QA,2026-02-04 14:25:10.000,In Progress,To Do,Ready for QA,2026-01-03 16:23:32,3.0,LRK-107,Finance Pod,Member 24
+LRK-1081,Invoices Payable - Info Mart QA,2026-02-03 09:25:10.000,To Do,In Progress,Ready for QA,2026-01-03 16:23:32,3.0,LRK-107,Finance Pod,Member 24
+LRK-1082,Invoices Payable - Dashboard Build,2026-05-29 15:48:34.000,Ready for Acceptance,Done,Done,2026-04-01 16:10:30,2.0,LRK-107,Finance Pod,Member 25
+LRK-1082,Invoices Payable - Dashboard Build,2026-05-27 01:53:03.250,Ready for QA,Ready for Acceptance,Done,2026-04-01 16:10:30,2.0,LRK-107,Finance Pod,Member 25
+LRK-1082,Invoices Payable - Dashboard Build,2026-05-22 18:40:32.000,In Progress,Ready for QA,Done,2026-04-01 16:10:30,2.0,LRK-107,Finance Pod,Member 25
+LRK-1082,Invoices Payable - Dashboard Build,2026-05-12 10:58:29.000,To Do,In Progress,Done,2026-04-01 16:10:30,2.0,LRK-107,Finance Pod,Member 25
+LRK-1083,Invoices Payable - Visual Report,2026-02-23 17:49:04.000,Ready for QA,Ready for Acceptance,Done,2026-01-10 11:33:36,5.0,LRK-107,Finance Pod,Member 25
+LRK-1083,Invoices Payable - Visual Report,2026-02-23 17:49:04.000,Ready for Acceptance,Done,Done,2026-01-10 11:33:36,5.0,LRK-107,Finance Pod,Member 25
+LRK-1083,Invoices Payable - Visual Report,2026-02-23 14:18:44.800,In Progress,Ready for QA,Done,2026-01-10 11:33:36,5.0,LRK-107,Finance Pod,Member 25
+LRK-1083,Invoices Payable - Visual Report,2026-02-18 09:03:16.000,To Do,In Progress,Done,2026-01-10 11:33:36,5.0,LRK-107,Finance Pod,Member 25
+LRK-1084,Invoices Payable - Prod Release Deployment,2026-02-17 17:25:12.000,Ready for QA,Ready for Acceptance,Done,2026-02-04 08:34:40,3.0,LRK-107,Finance Pod,Member 22
+LRK-1084,Invoices Payable - Prod Release Deployment,2026-02-17 17:25:12.000,Ready for Acceptance,Done,Done,2026-02-04 08:34:40,3.0,LRK-107,Finance Pod,Member 22
+LRK-1084,Invoices Payable - Prod Release Deployment,2026-02-17 14:26:22.400,In Progress,Ready for QA,Done,2026-02-04 08:34:40,3.0,LRK-107,Finance Pod,Member 22
+LRK-1084,Invoices Payable - Prod Release Deployment,2026-02-12 09:58:08.000,To Do,In Progress,Done,2026-02-04 08:34:40,3.0,LRK-107,Finance Pod,Member 22
+LRK-1085,Budget Lines - Discovery,2026-01-28 15:22:17.000,Ready for Acceptance,Done,Done,2026-01-07 10:44:08,1.0,LRK-108,Finance Pod,Member 25
+LRK-1085,Budget Lines - Discovery,2026-01-28 07:27:04.700,Ready for QA,Ready for Acceptance,Done,2026-01-07 10:44:08,1.0,LRK-108,Finance Pod,Member 25
+LRK-1085,Budget Lines - Discovery,2026-01-27 18:15:04.200,In Progress,Ready for QA,Done,2026-01-07 10:44:08,1.0,LRK-108,Finance Pod,Member 25
+LRK-1085,Budget Lines - Discovery,2026-01-26 10:34:15.000,To Do,In Progress,Done,2026-01-07 10:44:08,1.0,LRK-108,Finance Pod,Member 25
+LRK-1086,Budget Lines - Staging Model,2026-06-01 14:52:36.000,Ready for QA,Ready for Acceptance,Done,2026-04-26 14:54:57,2.0,LRK-108,Finance Pod,Member 23
+LRK-1086,Budget Lines - Staging Model,2026-06-01 14:52:36.000,Ready for Acceptance,Done,Done,2026-04-26 14:54:57,2.0,LRK-108,Finance Pod,Member 23
+LRK-1086,Budget Lines - Staging Model,2026-06-01 02:41:16.800,In Progress,Ready for QA,Done,2026-04-26 14:54:57,2.0,LRK-108,Finance Pod,Member 23
+LRK-1086,Budget Lines - Staging Model,2026-05-26 08:24:18.000,To Do,In Progress,Done,2026-04-26 14:54:57,2.0,LRK-108,Finance Pod,Member 23
+LRK-1087,Budget Lines - Staging QA,2026-04-15 14:18:25.000,To Do,Done,Done,2026-02-23 09:00:59,1.0,LRK-108,Finance Pod,Member 24
+LRK-1088,Budget Lines - Business Requirements,2026-04-24 15:48:25.000,Ready for Acceptance,Done,Done,2026-04-03 10:12:54,1.0,LRK-108,Finance Pod,Member 26
+LRK-1088,Budget Lines - Business Requirements,2026-04-23 09:55:11.500,Ready for QA,Ready for Acceptance,Done,2026-04-03 10:12:54,1.0,LRK-108,Finance Pod,Member 26
+LRK-1088,Budget Lines - Business Requirements,2026-04-21 08:06:29.000,In Progress,Ready for QA,Done,2026-04-03 10:12:54,1.0,LRK-108,Finance Pod,Member 26
+LRK-1088,Budget Lines - Business Requirements,2026-04-16 08:33:35.000,To Do,In Progress,Done,2026-04-03 10:12:54,1.0,LRK-108,Finance Pod,Member 26
+LRK-1089,Budget Lines - Raw Vault ETL,2026-02-05 14:45:32.000,Ready for Acceptance,Done,Done,2025-12-27 08:37:19,2.0,LRK-108,Finance Pod,Member 22
+LRK-1089,Budget Lines - Raw Vault ETL,2026-02-04 16:21:57.650,Ready for QA,Ready for Acceptance,Done,2025-12-27 08:37:19,2.0,LRK-108,Finance Pod,Member 22
+LRK-1089,Budget Lines - Raw Vault ETL,2026-02-03 03:02:40.400,In Progress,Ready for QA,Done,2025-12-27 08:37:19,2.0,LRK-108,Finance Pod,Member 22
+LRK-1089,Budget Lines - Raw Vault ETL,2026-01-30 09:28:23.000,To Do,In Progress,Done,2025-12-27 08:37:19,2.0,LRK-108,Finance Pod,Member 22
+LRK-1090,Budget Lines - Raw Vault QA,2026-04-27 16:59:30.000,In Progress,Ready for QA,Done,2026-03-05 16:31:43,2.0,LRK-108,Finance Pod,Member 24
+LRK-1090,Budget Lines - Raw Vault QA,2026-04-27 16:59:30.000,Ready for QA,Ready for Acceptance,Done,2026-03-05 16:31:43,2.0,LRK-108,Finance Pod,Member 24
+LRK-1090,Budget Lines - Raw Vault QA,2026-04-27 16:59:30.000,Ready for Acceptance,Done,Done,2026-03-05 16:31:43,2.0,LRK-108,Finance Pod,Member 24
+LRK-1090,Budget Lines - Raw Vault QA,2026-04-23 10:24:53.000,To Do,In Progress,Done,2026-03-05 16:31:43,2.0,LRK-108,Finance Pod,Member 24
+LRK-1091,Budget Lines - Business Vault Model,2026-04-17 17:56:06.000,Ready for Acceptance,Done,Done,2026-03-14 09:27:56,5.0,LRK-108,Finance Pod,Member 23
+LRK-1091,Budget Lines - Business Vault Model,2026-04-17 02:10:13.800,Ready for QA,Ready for Acceptance,Done,2026-03-14 09:27:56,5.0,LRK-108,Finance Pod,Member 23
+LRK-1091,Budget Lines - Business Vault Model,2026-04-15 23:53:46.800,In Progress,Ready for QA,Done,2026-03-14 09:27:56,5.0,LRK-108,Finance Pod,Member 23
+LRK-1091,Budget Lines - Business Vault Model,2026-04-13 08:50:18.000,To Do,In Progress,Done,2026-03-14 09:27:56,5.0,LRK-108,Finance Pod,Member 23
+LRK-1092,Budget Lines - Business Vault ETL,2026-03-20 09:24:18.800,In Progress,Ready for QA,Ready for QA,2026-01-30 11:04:54,8.0,LRK-108,Finance Pod,Member 21
+LRK-1092,Budget Lines - Business Vault ETL,2026-03-09 09:06:32.000,To Do,In Progress,Ready for QA,2026-01-30 11:04:54,8.0,LRK-108,Finance Pod,Member 21
+LRK-1093,Budget Lines - Info Mart ETL,2026-05-28 14:17:15.000,Ready for Acceptance,Done,Done,2026-04-28 14:34:26,8.0,LRK-108,Finance Pod,Member 22
+LRK-1093,Budget Lines - Info Mart ETL,2026-05-27 12:09:24.300,Ready for QA,Ready for Acceptance,Done,2026-04-28 14:34:26,8.0,LRK-108,Finance Pod,Member 22
+LRK-1093,Budget Lines - Info Mart ETL,2026-05-26 16:36:19.800,In Progress,Ready for QA,Done,2026-04-28 14:34:26,8.0,LRK-108,Finance Pod,Member 22
+LRK-1093,Budget Lines - Info Mart ETL,2026-05-21 08:04:57.000,To Do,In Progress,Done,2026-04-28 14:34:26,8.0,LRK-108,Finance Pod,Member 22
+LRK-1094,Budget Lines - Info Mart QA,2026-05-05 15:40:32.000,Ready for Acceptance,Done,Done,2026-04-09 16:58:04,2.0,LRK-108,Finance Pod,Member 24
+LRK-1094,Budget Lines - Info Mart QA,2026-05-04 20:47:17.450,Ready for QA,Ready for Acceptance,Done,2026-04-09 16:58:04,2.0,LRK-108,Finance Pod,Member 24
+LRK-1094,Budget Lines - Info Mart QA,2026-05-04 13:18:33.200,In Progress,Ready for QA,Done,2026-04-09 16:58:04,2.0,LRK-108,Finance Pod,Member 24
+LRK-1094,Budget Lines - Info Mart QA,2026-04-30 09:45:35.000,To Do,In Progress,Done,2026-04-09 16:58:04,2.0,LRK-108,Finance Pod,Member 24
+LRK-1095,Budget Lines - Prod Release Deployment,2026-05-05 15:05:52.000,Ready for Acceptance,Done,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1095,Budget Lines - Prod Release Deployment,2026-05-04 23:45:49.450,Ready for QA,Ready for Acceptance,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1095,Budget Lines - Prod Release Deployment,2026-05-04 22:12:25.200,In Progress,Ready for QA,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1095,Budget Lines - Prod Release Deployment,2026-05-01 08:52:15.000,To Do,In Progress,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1095,Budget Lines - Prod Release Deployment,2026-04-28 13:27:02.000,In Progress,To Do,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1095,Budget Lines - Prod Release Deployment,2026-04-27 08:27:02.000,To Do,In Progress,Done,2026-03-21 08:57:35,5.0,LRK-108,Finance Pod,Member 22
+LRK-1096,Budget Lines - Data Validation,2026-01-28 15:11:26.000,Ready for Acceptance,Done,Done,2025-12-07 15:11:17,1.0,LRK-108,Finance Pod,Member 24
+LRK-1096,Budget Lines - Data Validation,2026-01-27 09:24:39.350,Ready for QA,Ready for Acceptance,Done,2025-12-07 15:11:17,1.0,LRK-108,Finance Pod,Member 24
+LRK-1096,Budget Lines - Data Validation,2026-01-26 07:46:41.600,In Progress,Ready for QA,Done,2025-12-07 15:11:17,1.0,LRK-108,Finance Pod,Member 24
+LRK-1096,Budget Lines - Data Validation,2026-01-20 08:39:35.000,To Do,In Progress,Done,2025-12-07 15:11:17,1.0,LRK-108,Finance Pod,Member 24
+LRK-1097,Cost Centers - Discovery,2026-03-11 13:42:45.000,Ready for Acceptance,Done,Done,2026-02-12 12:34:23,3.0,LRK-109,Finance Pod,Member 25
+LRK-1097,Cost Centers - Discovery,2026-03-11 09:29:02.250,Ready for QA,Ready for Acceptance,Done,2026-02-12 12:34:23,3.0,LRK-109,Finance Pod,Member 25
+LRK-1097,Cost Centers - Discovery,2026-03-11 02:26:11.000,In Progress,Ready for QA,Done,2026-02-12 12:34:23,3.0,LRK-109,Finance Pod,Member 25
+LRK-1097,Cost Centers - Discovery,2026-03-10 09:31:20.000,To Do,In Progress,Done,2026-02-12 12:34:23,3.0,LRK-109,Finance Pod,Member 25
+LRK-1098,Cost Centers - Staging Model,2026-03-30 17:35:30.000,Ready for Acceptance,Done,Done,2026-03-07 12:01:57,5.0,LRK-109,Finance Pod,Member 23
+LRK-1098,Cost Centers - Staging Model,2026-03-30 17:22:15.900,Ready for QA,Ready for Acceptance,Done,2026-03-07 12:01:57,5.0,LRK-109,Finance Pod,Member 23
+LRK-1098,Cost Centers - Staging Model,2026-03-25 09:00:12.400,In Progress,Ready for QA,Done,2026-03-07 12:01:57,5.0,LRK-109,Finance Pod,Member 23
+LRK-1098,Cost Centers - Staging Model,2026-03-17 08:07:16.000,To Do,In Progress,Done,2026-03-07 12:01:57,5.0,LRK-109,Finance Pod,Member 23
+LRK-1099,Cost Centers - Business Requirements,2026-01-30 13:29:29.000,Ready for Acceptance,Done,Done,2025-12-26 08:27:57,5.0,LRK-109,Finance Pod,Member 26
+LRK-1099,Cost Centers - Business Requirements,2026-01-28 10:18:47.000,Ready for QA,Ready for Acceptance,Done,2025-12-26 08:27:57,5.0,LRK-109,Finance Pod,Member 26
+LRK-1099,Cost Centers - Business Requirements,2026-01-26 21:00:57.000,In Progress,Ready for QA,Done,2025-12-26 08:27:57,5.0,LRK-109,Finance Pod,Member 26
+LRK-1099,Cost Centers - Business Requirements,2026-01-16 08:18:09.000,To Do,In Progress,Done,2025-12-26 08:27:57,5.0,LRK-109,Finance Pod,Member 26
+LRK-1100,Cost Centers - Raw Vault ETL,2026-02-17 15:58:30.000,In Progress,Ready for QA,Done,2026-02-02 13:36:54,3.0,LRK-109,Finance Pod,Member 22
+LRK-1100,Cost Centers - Raw Vault ETL,2026-02-17 15:58:30.000,Ready for QA,Ready for Acceptance,Done,2026-02-02 13:36:54,3.0,LRK-109,Finance Pod,Member 22
+LRK-1100,Cost Centers - Raw Vault ETL,2026-02-17 15:58:30.000,Ready for Acceptance,Done,Done,2026-02-02 13:36:54,3.0,LRK-109,Finance Pod,Member 22
+LRK-1100,Cost Centers - Raw Vault ETL,2026-02-10 08:09:38.000,To Do,In Progress,Done,2026-02-02 13:36:54,3.0,LRK-109,Finance Pod,Member 22
+LRK-1101,Cost Centers - Raw Vault QA,2026-02-03 17:54:29.000,Ready for Acceptance,Done,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1101,Cost Centers - Raw Vault QA,2026-02-03 12:55:55.400,Ready for QA,Ready for Acceptance,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1101,Cost Centers - Raw Vault QA,2026-02-03 04:38:19.400,In Progress,Ready for QA,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1101,Cost Centers - Raw Vault QA,2026-02-02 08:44:05.000,To Do,In Progress,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1101,Cost Centers - Raw Vault QA,2026-01-30 14:07:55.000,In Progress,To Do,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1101,Cost Centers - Raw Vault QA,2026-01-29 09:07:55.000,To Do,In Progress,Done,2026-01-03 15:15:56,8.0,LRK-109,Finance Pod,Member 24
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-27 16:51:55.000,Ready for Acceptance,Done,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-25 13:32:34.000,Ready for QA,Ready for Acceptance,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-23 00:00:19.000,In Progress,Ready for QA,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-13 10:42:55.000,To Do,In Progress,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-11 14:20:45.000,In Progress,To Do,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1102,Cost Centers - Business Vault ETL,2026-02-10 09:20:45.000,To Do,In Progress,Done,2026-01-22 13:00:15,8.0,LRK-109,Finance Pod,Member 22
+LRK-1103,Cost Centers - Business Vault QA,2026-05-14 17:47:17.000,Ready for Acceptance,Done,Done,2026-03-13 08:22:43,2.0,LRK-109,Finance Pod,Member 24
+LRK-1103,Cost Centers - Business Vault QA,2026-05-14 05:52:45.500,Ready for QA,Ready for Acceptance,Done,2026-03-13 08:22:43,2.0,LRK-109,Finance Pod,Member 24
+LRK-1103,Cost Centers - Business Vault QA,2026-05-13 10:01:53.000,In Progress,Ready for QA,Done,2026-03-13 08:22:43,2.0,LRK-109,Finance Pod,Member 24
+LRK-1103,Cost Centers - Business Vault QA,2026-05-11 10:23:47.000,To Do,In Progress,Done,2026-03-13 08:22:43,2.0,LRK-109,Finance Pod,Member 24
+LRK-1104,Cost Centers - Info Mart Model,2026-05-08 13:35:21.000,Ready for Acceptance,Done,Done,2026-03-10 10:21:49,8.0,LRK-109,Finance Pod,Member 23
+LRK-1104,Cost Centers - Info Mart Model,2026-05-07 22:21:37.950,Ready for QA,Ready for Acceptance,Done,2026-03-10 10:21:49,8.0,LRK-109,Finance Pod,Member 23
+LRK-1104,Cost Centers - Info Mart Model,2026-05-06 20:58:46.200,In Progress,Ready for QA,Done,2026-03-10 10:21:49,8.0,LRK-109,Finance Pod,Member 23
+LRK-1104,Cost Centers - Info Mart Model,2026-05-04 08:03:54.000,To Do,In Progress,Done,2026-03-10 10:21:49,8.0,LRK-109,Finance Pod,Member 23
+LRK-1105,Cost Centers - Info Mart ETL,2026-01-13 03:41:43.200,In Progress,Ready for QA,Ready for QA,2026-01-02 16:05:30,5.0,LRK-109,Finance Pod,Member 22
+LRK-1105,Cost Centers - Info Mart ETL,2026-01-09 09:10:30.000,To Do,In Progress,Ready for QA,2026-01-02 16:05:30,5.0,LRK-109,Finance Pod,Member 22
+LRK-1106,Cost Centers - Info Mart QA,2026-02-11 07:31:40.000,In Progress,Ready for QA,Ready for QA,2025-12-21 09:59:31,5.0,LRK-109,Finance Pod,Member 24
+LRK-1106,Cost Centers - Info Mart QA,2026-02-09 10:56:46.000,To Do,In Progress,Ready for QA,2025-12-21 09:59:31,5.0,LRK-109,Finance Pod,Member 24
+LRK-1107,Cost Centers - Prod Release Deployment,2026-04-29 16:36:36.000,Ready for Acceptance,Done,Done,2026-03-03 08:17:42,2.0,LRK-109,Finance Pod,Member 21
+LRK-1107,Cost Centers - Prod Release Deployment,2026-04-28 21:28:19.500,Ready for QA,Ready for Acceptance,Done,2026-03-03 08:17:42,2.0,LRK-109,Finance Pod,Member 21
+LRK-1107,Cost Centers - Prod Release Deployment,2026-04-27 13:34:32.000,In Progress,Ready for QA,Done,2026-03-03 08:17:42,2.0,LRK-109,Finance Pod,Member 21
+LRK-1107,Cost Centers - Prod Release Deployment,2026-04-24 09:01:26.000,To Do,In Progress,Done,2026-03-03 08:17:42,2.0,LRK-109,Finance Pod,Member 21
+LRK-1108,Cost Centers - Data Validation,2026-03-20 14:14:55.000,Ready for Acceptance,Done,Done,2026-02-05 13:23:38,8.0,LRK-109,Finance Pod,Member 24
+LRK-1108,Cost Centers - Data Validation,2026-03-20 10:05:59.350,Ready for QA,Ready for Acceptance,Done,2026-02-05 13:23:38,8.0,LRK-109,Finance Pod,Member 24
+LRK-1108,Cost Centers - Data Validation,2026-03-20 03:11:06.600,In Progress,Ready for QA,Done,2026-02-05 13:23:38,8.0,LRK-109,Finance Pod,Member 24
+LRK-1108,Cost Centers - Data Validation,2026-03-19 10:35:24.000,To Do,In Progress,Done,2026-02-05 13:23:38,8.0,LRK-109,Finance Pod,Member 24
+LRK-1109,Receivables Ageing - Staging ETL,2026-06-08 17:23:30.000,Ready for Acceptance,Done,Done,2026-05-23 16:48:39,2.0,LRK-110,Finance Pod,Member 22
+LRK-1109,Receivables Ageing - Staging ETL,2026-06-08 00:28:43.800,Ready for QA,Ready for Acceptance,Done,2026-05-23 16:48:39,2.0,LRK-110,Finance Pod,Member 22
+LRK-1109,Receivables Ageing - Staging ETL,2026-06-04 04:17:26.800,In Progress,Ready for QA,Done,2026-05-23 16:48:39,2.0,LRK-110,Finance Pod,Member 22
+LRK-1109,Receivables Ageing - Staging ETL,2026-05-28 08:38:22.000,To Do,In Progress,Done,2026-05-23 16:48:39,2.0,LRK-110,Finance Pod,Member 22
+LRK-1110,Receivables Ageing - Staging QA,2026-03-27 14:39:47.000,Ready for Acceptance,Done,Done,2026-03-09 14:03:55,3.0,LRK-110,Finance Pod,Member 24
+LRK-1110,Receivables Ageing - Staging QA,2026-03-27 06:48:45.800,Ready for QA,Ready for Acceptance,Done,2026-03-09 14:03:55,3.0,LRK-110,Finance Pod,Member 24
+LRK-1110,Receivables Ageing - Staging QA,2026-03-26 17:43:43.800,In Progress,Ready for QA,Done,2026-03-09 14:03:55,3.0,LRK-110,Finance Pod,Member 24
+LRK-1110,Receivables Ageing - Staging QA,2026-03-25 10:19:39.000,To Do,In Progress,Done,2026-03-09 14:03:55,3.0,LRK-110,Finance Pod,Member 24
+LRK-1111,Receivables Ageing - Raw Vault Model,2026-04-10 16:43:37.000,Ready for Acceptance,Done,Done,2026-03-15 12:28:13,3.0,LRK-110,Finance Pod,Member 23
+LRK-1111,Receivables Ageing - Raw Vault Model,2026-04-09 07:05:08.350,Ready for QA,Ready for Acceptance,Done,2026-03-15 12:28:13,3.0,LRK-110,Finance Pod,Member 23
+LRK-1111,Receivables Ageing - Raw Vault Model,2026-04-06 23:01:00.600,In Progress,Ready for QA,Done,2026-03-15 12:28:13,3.0,LRK-110,Finance Pod,Member 23
+LRK-1111,Receivables Ageing - Raw Vault Model,2026-04-01 08:27:06.000,To Do,In Progress,Done,2026-03-15 12:28:13,3.0,LRK-110,Finance Pod,Member 23
+LRK-1112,Receivables Ageing - Raw Vault ETL,2026-05-27 14:38:41.000,Ready for Acceptance,Done,Done,2026-05-16 08:03:46,5.0,LRK-110,Finance Pod,Member 21
+LRK-1112,Receivables Ageing - Raw Vault ETL,2026-05-26 16:18:05.750,Ready for QA,Ready for Acceptance,Done,2026-05-16 08:03:46,5.0,LRK-110,Finance Pod,Member 21
+LRK-1112,Receivables Ageing - Raw Vault ETL,2026-05-26 03:03:47.000,In Progress,Ready for QA,Done,2026-05-16 08:03:46,5.0,LRK-110,Finance Pod,Member 21
+LRK-1112,Receivables Ageing - Raw Vault ETL,2026-05-21 09:41:26.000,To Do,In Progress,Done,2026-05-16 08:03:46,5.0,LRK-110,Finance Pod,Member 21
+LRK-1113,Receivables Ageing - Business Vault Model,2026-04-03 13:29:50.000,Ready for Acceptance,Done,Done,2026-01-12 16:23:06,3.0,LRK-110,Finance Pod,Member 23
+LRK-1113,Receivables Ageing - Business Vault Model,2026-03-30 16:39:50.900,Ready for QA,Ready for Acceptance,Done,2026-01-12 16:23:06,3.0,LRK-110,Finance Pod,Member 23
+LRK-1113,Receivables Ageing - Business Vault Model,2026-03-18 21:56:32.400,In Progress,Ready for QA,Done,2026-01-12 16:23:06,3.0,LRK-110,Finance Pod,Member 23
+LRK-1113,Receivables Ageing - Business Vault Model,2026-02-23 10:36:36.000,To Do,In Progress,Done,2026-01-12 16:23:06,3.0,LRK-110,Finance Pod,Member 23
+LRK-1114,Receivables Ageing - Business Vault ETL,2026-02-25 14:07:14.000,Ready for Acceptance,Done,Done,2026-02-04 16:39:47,2.0,LRK-110,Finance Pod,Member 21
+LRK-1114,Receivables Ageing - Business Vault ETL,2026-02-23 18:18:09.800,Ready for QA,Ready for Acceptance,Done,2026-02-04 16:39:47,2.0,LRK-110,Finance Pod,Member 21
+LRK-1114,Receivables Ageing - Business Vault ETL,2026-02-20 17:16:22.800,In Progress,Ready for QA,Done,2026-02-04 16:39:47,2.0,LRK-110,Finance Pod,Member 21
+LRK-1114,Receivables Ageing - Business Vault ETL,2026-02-13 10:00:06.000,To Do,In Progress,Done,2026-02-04 16:39:47,2.0,LRK-110,Finance Pod,Member 21
+LRK-1115,Receivables Ageing - Business Vault QA,2026-03-03 17:17:34.000,Ready for Acceptance,Done,Done,2026-02-17 09:12:19,3.0,LRK-110,Finance Pod,Member 24
+LRK-1115,Receivables Ageing - Business Vault QA,2026-03-03 01:45:16.900,Ready for QA,Ready for Acceptance,Done,2026-02-17 09:12:19,3.0,LRK-110,Finance Pod,Member 24
+LRK-1115,Receivables Ageing - Business Vault QA,2026-03-02 23:51:28.400,In Progress,Ready for QA,Done,2026-02-17 09:12:19,3.0,LRK-110,Finance Pod,Member 24
+LRK-1115,Receivables Ageing - Business Vault QA,2026-02-27 09:42:20.000,To Do,In Progress,Done,2026-02-17 09:12:19,3.0,LRK-110,Finance Pod,Member 24
+LRK-1116,Receivables Ageing - Info Mart ETL,2026-03-18 17:42:59.000,Ready for Acceptance,Done,Done,2026-02-08 15:21:44,2.0,LRK-110,Finance Pod,Member 21
+LRK-1116,Receivables Ageing - Info Mart ETL,2026-03-17 15:24:05.900,Ready for QA,Ready for Acceptance,Done,2026-02-08 15:21:44,2.0,LRK-110,Finance Pod,Member 21
+LRK-1116,Receivables Ageing - Info Mart ETL,2026-03-16 19:32:37.400,In Progress,Ready for QA,Done,2026-02-08 15:21:44,2.0,LRK-110,Finance Pod,Member 21
+LRK-1116,Receivables Ageing - Info Mart ETL,2026-03-11 10:17:05.000,To Do,In Progress,Done,2026-02-08 15:21:44,2.0,LRK-110,Finance Pod,Member 21
+LRK-1117,Receivables Ageing - Dashboard Build,2026-06-26 13:41:25.000,Ready for Acceptance,Done,Done,2026-04-17 09:13:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1117,Receivables Ageing - Dashboard Build,2026-06-22 00:59:38.500,Ready for QA,Ready for Acceptance,Done,2026-04-17 09:13:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1117,Receivables Ageing - Dashboard Build,2026-06-15 11:50:01.000,In Progress,Ready for QA,Done,2026-04-17 09:13:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1117,Receivables Ageing - Dashboard Build,2026-05-27 09:02:55.000,To Do,In Progress,Done,2026-04-17 09:13:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1118,Receivables Ageing - Visual Report,2026-03-18 13:34:05.000,Ready for Acceptance,Done,Done,2026-03-01 10:15:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1118,Receivables Ageing - Visual Report,2026-03-17 15:12:04.400,Ready for QA,Ready for Acceptance,Done,2026-03-01 10:15:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1118,Receivables Ageing - Visual Report,2026-03-16 01:55:23.400,In Progress,Ready for QA,Done,2026-03-01 10:15:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1118,Receivables Ageing - Visual Report,2026-03-12 08:27:21.000,To Do,In Progress,Done,2026-03-01 10:15:39,5.0,LRK-110,Finance Pod,Member 25
+LRK-1119,Receivables Ageing - Prod Release Deployment,2026-03-19 16:10:44.000,Ready for Acceptance,Done,Done,2026-03-02 15:35:49,2.0,LRK-110,Finance Pod,Member 21
+LRK-1119,Receivables Ageing - Prod Release Deployment,2026-03-19 04:34:38.300,Ready for QA,Ready for Acceptance,Done,2026-03-02 15:35:49,2.0,LRK-110,Finance Pod,Member 21
+LRK-1119,Receivables Ageing - Prod Release Deployment,2026-03-18 09:14:28.800,In Progress,Ready for QA,Done,2026-03-02 15:35:49,2.0,LRK-110,Finance Pod,Member 21
+LRK-1119,Receivables Ageing - Prod Release Deployment,2026-03-16 10:50:06.000,To Do,In Progress,Done,2026-03-02 15:35:49,2.0,LRK-110,Finance Pod,Member 21
+LRK-1120,Receivables Ageing - Data Validation,2026-04-06 16:22:59.000,Ready for Acceptance,Done,Done,2026-02-12 12:17:39,3.0,LRK-110,Finance Pod,Member 24
+LRK-1120,Receivables Ageing - Data Validation,2026-04-06 09:17:31.400,In Progress,Ready for QA,Done,2026-02-12 12:17:39,3.0,LRK-110,Finance Pod,Member 24
+LRK-1120,Receivables Ageing - Data Validation,2026-04-06 09:17:31.400,Ready for QA,Ready for Acceptance,Done,2026-02-12 12:17:39,3.0,LRK-110,Finance Pod,Member 24
+LRK-1120,Receivables Ageing - Data Validation,2026-04-03 10:39:20.000,To Do,In Progress,Done,2026-02-12 12:17:39,3.0,LRK-110,Finance Pod,Member 24
+LRK-1121,Web Orders - Staging Model,2026-04-27 14:59:23.000,Ready for QA,Ready for Acceptance,Done,2026-03-20 14:47:35,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1121,Web Orders - Staging Model,2026-04-27 14:59:23.000,Ready for Acceptance,Done,Done,2026-03-20 14:47:35,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1121,Web Orders - Staging Model,2026-04-27 03:09:25.800,In Progress,Ready for QA,Done,2026-03-20 14:47:35,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1121,Web Orders - Staging Model,2026-04-21 09:24:30.000,To Do,In Progress,Done,2026-03-20 14:47:35,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1122,Web Orders - Staging QA,2026-02-26 16:46:06.000,Ready for Acceptance,Done,Done,2026-01-01 16:23:08,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1122,Web Orders - Staging QA,2026-02-26 12:16:55.350,Ready for QA,Ready for Acceptance,Done,2026-01-01 16:23:08,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1122,Web Orders - Staging QA,2026-02-26 04:48:17.600,In Progress,Ready for QA,Done,2026-01-01 16:23:08,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1122,Web Orders - Staging QA,2026-02-25 10:51:35.000,To Do,In Progress,Done,2026-01-01 16:23:08,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1123,Web Orders - Business Requirements,2026-04-03 13:59:56.000,Ready for Acceptance,Done,Done,2026-02-14 16:33:32,3.0,LRK-111,Commerce Pod,Member 36
+LRK-1123,Web Orders - Business Requirements,2026-03-30 03:36:27.650,Ready for QA,Ready for Acceptance,Done,2026-02-14 16:33:32,3.0,LRK-111,Commerce Pod,Member 36
+LRK-1123,Web Orders - Business Requirements,2026-03-20 02:17:20.400,In Progress,Ready for QA,Done,2026-02-14 16:33:32,3.0,LRK-111,Commerce Pod,Member 36
+LRK-1123,Web Orders - Business Requirements,2026-02-26 08:43:27.000,To Do,In Progress,Done,2026-02-14 16:33:32,3.0,LRK-111,Commerce Pod,Member 36
+LRK-1124,Web Orders - Raw Vault ETL,2026-03-11 16:51:32.000,Ready for Acceptance,Done,Done,2026-01-05 08:44:39,2.0,LRK-111,Commerce Pod,Member 32
+LRK-1124,Web Orders - Raw Vault ETL,2026-03-09 13:16:48.650,Ready for QA,Ready for Acceptance,Done,2026-01-05 08:44:39,2.0,LRK-111,Commerce Pod,Member 32
+LRK-1124,Web Orders - Raw Vault ETL,2026-03-05 23:18:56.400,In Progress,Ready for QA,Done,2026-01-05 08:44:39,2.0,LRK-111,Commerce Pod,Member 32
+LRK-1124,Web Orders - Raw Vault ETL,2026-02-25 09:00:03.000,To Do,In Progress,Done,2026-01-05 08:44:39,2.0,LRK-111,Commerce Pod,Member 32
+LRK-1125,Web Orders - Raw Vault QA,2026-02-17 13:55:15.200,In Progress,Ready for QA,Ready for QA,2025-12-30 08:59:36,3.0,LRK-111,Commerce Pod,Member 34
+LRK-1125,Web Orders - Raw Vault QA,2026-02-10 10:26:29.000,To Do,In Progress,Ready for QA,2025-12-30 08:59:36,3.0,LRK-111,Commerce Pod,Member 34
+LRK-1126,Web Orders - Business Vault Model,2026-06-10 15:32:04.000,Ready for Acceptance,Done,Done,2026-04-16 15:03:41,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1126,Web Orders - Business Vault Model,2026-06-08 15:57:46.900,Ready for QA,Ready for Acceptance,Done,2026-04-16 15:03:41,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1126,Web Orders - Business Vault Model,2026-06-05 08:40:38.400,In Progress,Ready for QA,Done,2026-04-16 15:03:41,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1126,Web Orders - Business Vault Model,2026-05-28 10:23:30.000,To Do,In Progress,Done,2026-04-16 15:03:41,5.0,LRK-111,Commerce Pod,Member 33
+LRK-1127,Web Orders - Business Vault QA,2026-03-02 17:45:56.000,Ready for Acceptance,Done,Done,2026-01-26 12:40:31,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1127,Web Orders - Business Vault QA,2026-03-02 02:10:42.500,Ready for QA,Ready for Acceptance,Done,2026-01-26 12:40:31,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1127,Web Orders - Business Vault QA,2026-03-02 00:12:00.000,In Progress,Ready for QA,Done,2026-01-26 12:40:31,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1127,Web Orders - Business Vault QA,2026-02-26 09:51:06.000,To Do,In Progress,Done,2026-01-26 12:40:31,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1128,Web Orders - Info Mart Model,2026-06-12 15:21:51.000,Ready for Acceptance,Done,Done,2026-04-12 08:09:17,3.0,LRK-111,Commerce Pod,Member 33
+LRK-1128,Web Orders - Info Mart Model,2026-06-11 05:59:52.500,Ready for QA,Ready for Acceptance,Done,2026-04-12 08:09:17,3.0,LRK-111,Commerce Pod,Member 33
+LRK-1128,Web Orders - Info Mart Model,2026-06-08 22:23:15.000,In Progress,Ready for QA,Done,2026-04-12 08:09:17,3.0,LRK-111,Commerce Pod,Member 33
+LRK-1128,Web Orders - Info Mart Model,2026-06-03 08:55:21.000,To Do,In Progress,Done,2026-04-12 08:09:17,3.0,LRK-111,Commerce Pod,Member 33
+LRK-1129,Web Orders - Info Mart QA,2026-05-20 13:47:32.000,Ready for Acceptance,Done,Done,2026-05-03 15:00:00,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1129,Web Orders - Info Mart QA,2026-05-20 05:50:59.750,Ready for QA,Ready for Acceptance,Done,2026-05-03 15:00:00,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1129,Web Orders - Info Mart QA,2026-05-19 16:36:46.000,In Progress,Ready for QA,Done,2026-05-03 15:00:00,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1129,Web Orders - Info Mart QA,2026-05-18 08:50:37.000,To Do,In Progress,Done,2026-05-03 15:00:00,2.0,LRK-111,Commerce Pod,Member 34
+LRK-1130,Web Orders - Dashboard Build,2026-04-28 13:38:32.000,Ready for Acceptance,Done,Done,2026-02-21 11:13:38,1.0,LRK-111,Commerce Pod,Member 35
+LRK-1130,Web Orders - Dashboard Build,2026-04-27 10:36:48.950,Ready for QA,Ready for Acceptance,Done,2026-02-21 11:13:38,1.0,LRK-111,Commerce Pod,Member 35
+LRK-1130,Web Orders - Dashboard Build,2026-04-22 21:33:57.200,In Progress,Ready for QA,Done,2026-02-21 11:13:38,1.0,LRK-111,Commerce Pod,Member 35
+LRK-1130,Web Orders - Dashboard Build,2026-04-14 09:27:05.000,To Do,In Progress,Done,2026-02-21 11:13:38,1.0,LRK-111,Commerce Pod,Member 35
+LRK-1131,Web Orders - Prod Release Deployment,2026-01-30 14:11:06.000,Ready for Acceptance,Done,Done,2025-12-06 08:40:11,2.0,LRK-111,Commerce Pod,Member 31
+LRK-1131,Web Orders - Prod Release Deployment,2026-01-28 07:28:06.600,Ready for QA,Ready for Acceptance,Done,2025-12-06 08:40:11,2.0,LRK-111,Commerce Pod,Member 31
+LRK-1131,Web Orders - Prod Release Deployment,2026-01-26 12:16:27.600,In Progress,Ready for QA,Done,2025-12-06 08:40:11,2.0,LRK-111,Commerce Pod,Member 31
+LRK-1131,Web Orders - Prod Release Deployment,2026-01-15 09:24:30.000,To Do,In Progress,Done,2025-12-06 08:40:11,2.0,LRK-111,Commerce Pod,Member 31
+LRK-1132,Web Orders - Data Validation,2026-02-11 17:01:08.000,Ready for Acceptance,Done,Done,2026-01-02 12:26:53,5.0,LRK-111,Commerce Pod,Member 34
+LRK-1132,Web Orders - Data Validation,2026-02-10 18:11:47.750,Ready for QA,Ready for Acceptance,Done,2026-01-02 12:26:53,5.0,LRK-111,Commerce Pod,Member 34
+LRK-1132,Web Orders - Data Validation,2026-02-09 04:09:34.000,In Progress,Ready for QA,Done,2026-01-02 12:26:53,5.0,LRK-111,Commerce Pod,Member 34
+LRK-1132,Web Orders - Data Validation,2026-02-05 08:52:13.000,To Do,In Progress,Done,2026-01-02 12:26:53,5.0,LRK-111,Commerce Pod,Member 34
+LRK-1133,Product Catalog - Staging Model,2026-04-29 14:43:02.000,Ready for Acceptance,Done,Done,2026-03-05 10:08:32,5.0,LRK-112,Commerce Pod,Member 33
+LRK-1133,Product Catalog - Staging Model,2026-04-28 19:49:05.750,Ready for QA,Ready for Acceptance,Done,2026-03-05 10:08:32,5.0,LRK-112,Commerce Pod,Member 33
+LRK-1133,Product Catalog - Staging Model,2026-04-27 12:19:12.000,In Progress,Ready for QA,Done,2026-03-05 10:08:32,5.0,LRK-112,Commerce Pod,Member 33
+LRK-1133,Product Catalog - Staging Model,2026-04-24 08:43:27.000,To Do,In Progress,Done,2026-03-05 10:08:32,5.0,LRK-112,Commerce Pod,Member 33
+LRK-1134,Product Catalog - Raw Vault ETL,2026-02-05 13:00:16.000,Ready for Acceptance,Done,Done,2026-01-03 08:00:25,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1134,Product Catalog - Raw Vault ETL,2026-02-04 07:47:11.200,Ready for QA,Ready for Acceptance,Done,2026-01-03 08:00:25,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1134,Product Catalog - Raw Vault ETL,2026-02-02 07:05:23.200,In Progress,Ready for QA,Done,2026-01-03 08:00:25,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1134,Product Catalog - Raw Vault ETL,2026-01-28 10:13:04.000,To Do,In Progress,Done,2026-01-03 08:00:25,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1135,Product Catalog - Raw Vault QA,2026-02-13 17:36:12.000,Ready for Acceptance,Done,Done,2026-01-31 15:03:37,5.0,LRK-112,Commerce Pod,Member 34
+LRK-1135,Product Catalog - Raw Vault QA,2026-02-13 01:56:44.100,Ready for QA,Ready for Acceptance,Done,2026-01-31 15:03:37,5.0,LRK-112,Commerce Pod,Member 34
+LRK-1135,Product Catalog - Raw Vault QA,2026-02-11 23:50:57.600,In Progress,Ready for QA,Done,2026-01-31 15:03:37,5.0,LRK-112,Commerce Pod,Member 34
+LRK-1135,Product Catalog - Raw Vault QA,2026-02-09 09:13:06.000,To Do,In Progress,Done,2026-01-31 15:03:37,5.0,LRK-112,Commerce Pod,Member 34
+LRK-1136,Product Catalog - Business Vault ETL,2026-03-17 14:44:29.000,Ready for Acceptance,Done,Done,2026-01-25 08:46:24,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1136,Product Catalog - Business Vault ETL,2026-03-16 11:22:25.700,Ready for QA,Ready for Acceptance,Done,2026-01-25 08:46:24,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1136,Product Catalog - Business Vault ETL,2026-03-11 21:45:40.200,In Progress,Ready for QA,Done,2026-01-25 08:46:24,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1136,Product Catalog - Business Vault ETL,2026-03-03 08:17:27.000,To Do,In Progress,Done,2026-01-25 08:46:24,2.0,LRK-112,Commerce Pod,Member 32
+LRK-1137,Product Catalog - Business Vault QA,2026-02-03 16:43:52.000,Ready for Acceptance,Done,Done,2025-12-10 15:30:29,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1137,Product Catalog - Business Vault QA,2026-02-02 18:35:25.200,In Progress,Ready for QA,Done,2025-12-10 15:30:29,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1137,Product Catalog - Business Vault QA,2026-02-02 18:35:25.200,Ready for QA,Ready for Acceptance,Done,2025-12-10 15:30:29,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1137,Product Catalog - Business Vault QA,2026-01-27 09:22:45.000,To Do,In Progress,Done,2025-12-10 15:30:29,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1138,Product Catalog - Info Mart Model,2026-02-02 13:20:07.000,Ready for QA,Ready for Acceptance,Done,2026-01-04 10:33:15,3.0,LRK-112,Commerce Pod,Member 33
+LRK-1138,Product Catalog - Info Mart Model,2026-02-02 13:20:07.000,Ready for Acceptance,Done,Done,2026-01-04 10:33:15,3.0,LRK-112,Commerce Pod,Member 33
+LRK-1138,Product Catalog - Info Mart Model,2026-02-02 11:45:33.800,In Progress,Ready for QA,Done,2026-01-04 10:33:15,3.0,LRK-112,Commerce Pod,Member 33
+LRK-1138,Product Catalog - Info Mart Model,2026-01-28 09:23:44.000,To Do,In Progress,Done,2026-01-04 10:33:15,3.0,LRK-112,Commerce Pod,Member 33
+LRK-1139,Product Catalog - Info Mart ETL,2026-04-29 13:59:31.000,Ready for Acceptance,Done,Done,2026-03-05 08:47:11,5.0,LRK-112,Commerce Pod,Member 31
+LRK-1139,Product Catalog - Info Mart ETL,2026-04-27 16:54:41.500,Ready for QA,Ready for Acceptance,Done,2026-03-05 08:47:11,5.0,LRK-112,Commerce Pod,Member 31
+LRK-1139,Product Catalog - Info Mart ETL,2026-04-21 21:46:39.000,In Progress,Ready for QA,Done,2026-03-05 08:47:11,5.0,LRK-112,Commerce Pod,Member 31
+LRK-1139,Product Catalog - Info Mart ETL,2026-04-10 09:27:21.000,To Do,In Progress,Done,2026-03-05 08:47:11,5.0,LRK-112,Commerce Pod,Member 31
+LRK-1140,Product Catalog - Info Mart QA,2026-05-07 14:26:39.000,Ready for Acceptance,Done,Done,2026-04-16 12:42:21,3.0,LRK-112,Commerce Pod,Member 34
+LRK-1140,Product Catalog - Info Mart QA,2026-05-07 03:02:42.750,Ready for QA,Ready for Acceptance,Done,2026-04-16 12:42:21,3.0,LRK-112,Commerce Pod,Member 34
+LRK-1140,Product Catalog - Info Mart QA,2026-05-06 08:02:49.000,In Progress,Ready for QA,Done,2026-04-16 12:42:21,3.0,LRK-112,Commerce Pod,Member 34
+LRK-1140,Product Catalog - Info Mart QA,2026-05-04 10:27:04.000,To Do,In Progress,Done,2026-04-16 12:42:21,3.0,LRK-112,Commerce Pod,Member 34
+LRK-1141,Product Catalog - Dashboard Build,2026-04-08 14:37:17.000,Ready for Acceptance,Done,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1141,Product Catalog - Dashboard Build,2026-04-06 18:38:47.000,Ready for QA,Ready for Acceptance,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1141,Product Catalog - Dashboard Build,2026-04-03 17:21:17.000,In Progress,Ready for QA,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1141,Product Catalog - Dashboard Build,2026-03-27 09:27:17.000,To Do,In Progress,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1141,Product Catalog - Dashboard Build,2026-03-25 14:46:41.000,In Progress,To Do,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1141,Product Catalog - Dashboard Build,2026-03-24 09:46:41.000,To Do,In Progress,Done,2026-02-27 10:11:15,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1142,Product Catalog - Visual Report,2026-05-01 17:39:15.000,Ready for Acceptance,Done,Done,2026-03-22 11:03:53,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1142,Product Catalog - Visual Report,2026-04-29 07:01:53.400,Ready for QA,Ready for Acceptance,Done,2026-03-22 11:03:53,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1142,Product Catalog - Visual Report,2026-04-27 05:19:37.400,In Progress,Ready for QA,Done,2026-03-22 11:03:53,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1142,Product Catalog - Visual Report,2026-04-15 10:50:11.000,To Do,In Progress,Done,2026-03-22 11:03:53,3.0,LRK-112,Commerce Pod,Member 35
+LRK-1143,Product Catalog - Prod Release Deployment,2026-04-23 13:01:53.000,Ready for Acceptance,Done,Done,2026-03-09 09:01:41,5.0,LRK-112,Commerce Pod,Member 32
+LRK-1143,Product Catalog - Prod Release Deployment,2026-04-23 01:37:06.350,Ready for QA,Ready for Acceptance,Done,2026-03-09 09:01:41,5.0,LRK-112,Commerce Pod,Member 32
+LRK-1143,Product Catalog - Prod Release Deployment,2026-04-22 06:35:48.600,In Progress,Ready for QA,Done,2026-03-09 09:01:41,5.0,LRK-112,Commerce Pod,Member 32
+LRK-1143,Product Catalog - Prod Release Deployment,2026-04-20 08:56:42.000,To Do,In Progress,Done,2026-03-09 09:01:41,5.0,LRK-112,Commerce Pod,Member 32
+LRK-1144,Product Catalog - Data Validation,2026-02-17 03:49:38.000,In Progress,Ready for QA,Ready for QA,2025-12-24 16:55:13,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1144,Product Catalog - Data Validation,2026-02-13 08:24:02.000,To Do,In Progress,Ready for QA,2025-12-24 16:55:13,2.0,LRK-112,Commerce Pod,Member 34
+LRK-1145,Returns - Discovery,2026-03-17 14:07:06.000,Ready for Acceptance,Done,Done,2026-02-20 12:07:27,3.0,LRK-113,Commerce Pod,Member 35
+LRK-1145,Returns - Discovery,2026-03-17 09:55:24.150,Ready for QA,Ready for Acceptance,Done,2026-02-20 12:07:27,3.0,LRK-113,Commerce Pod,Member 35
+LRK-1145,Returns - Discovery,2026-03-17 02:55:54.400,In Progress,Ready for QA,Done,2026-02-20 12:07:27,3.0,LRK-113,Commerce Pod,Member 35
+LRK-1145,Returns - Discovery,2026-03-16 10:09:07.000,To Do,In Progress,Done,2026-02-20 12:07:27,3.0,LRK-113,Commerce Pod,Member 35
+LRK-1146,Returns - Staging ETL,2026-02-10 16:41:27.000,Ready for Acceptance,Done,Done,2025-12-22 10:16:14,3.0,LRK-113,Commerce Pod,Member 32
+LRK-1146,Returns - Staging ETL,2026-02-09 18:09:51.000,Ready for QA,Ready for Acceptance,Done,2025-12-22 10:16:14,3.0,LRK-113,Commerce Pod,Member 32
+LRK-1146,Returns - Staging ETL,2026-02-09 04:37:11.000,In Progress,Ready for QA,Done,2025-12-22 10:16:14,3.0,LRK-113,Commerce Pod,Member 32
+LRK-1146,Returns - Staging ETL,2026-02-04 10:30:47.000,To Do,In Progress,Done,2025-12-22 10:16:14,3.0,LRK-113,Commerce Pod,Member 32
+LRK-1147,Returns - Staging Model,2026-03-27 17:24:52.000,Ready for Acceptance,Done,Done,2026-03-01 13:57:21,3.0,LRK-113,Commerce Pod,Member 33
+LRK-1147,Returns - Staging Model,2026-03-26 11:18:23.050,Ready for QA,Ready for Acceptance,Done,2026-03-01 13:57:21,3.0,LRK-113,Commerce Pod,Member 33
+LRK-1147,Returns - Staging Model,2026-03-24 09:07:34.800,In Progress,Ready for QA,Done,2026-03-01 13:57:21,3.0,LRK-113,Commerce Pod,Member 33
+LRK-1147,Returns - Staging Model,2026-03-19 08:41:39.000,To Do,In Progress,Done,2026-03-01 13:57:21,3.0,LRK-113,Commerce Pod,Member 33
+LRK-1148,Returns - Business Requirements,2026-06-01 13:01:45.000,Ready for QA,Ready for Acceptance,Done,2026-03-28 14:06:33,1.0,LRK-113,Commerce Pod,Member 36
+LRK-1148,Returns - Business Requirements,2026-06-01 13:01:45.000,Ready for Acceptance,Done,Done,2026-03-28 14:06:33,1.0,LRK-113,Commerce Pod,Member 36
+LRK-1148,Returns - Business Requirements,2026-05-27 16:26:13.400,In Progress,Ready for QA,Done,2026-03-28 14:06:33,1.0,LRK-113,Commerce Pod,Member 36
+LRK-1148,Returns - Business Requirements,2026-05-20 09:32:56.000,To Do,In Progress,Done,2026-03-28 14:06:33,1.0,LRK-113,Commerce Pod,Member 36
+LRK-1149,Returns - Raw Vault Model,2026-03-25 13:20:41.000,Ready for Acceptance,Done,Done,2026-02-22 16:04:00,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1149,Returns - Raw Vault Model,2026-03-23 17:22:27.650,Ready for QA,Ready for Acceptance,Done,2026-02-22 16:04:00,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1149,Returns - Raw Vault Model,2026-03-20 16:05:25.400,In Progress,Ready for QA,Done,2026-02-22 16:04:00,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1149,Returns - Raw Vault Model,2026-03-13 08:12:32.000,To Do,In Progress,Done,2026-02-22 16:04:00,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1150,Returns - Raw Vault ETL,2026-03-10 16:50:20.000,Ready for Acceptance,Done,Done,2026-02-04 15:55:19,5.0,LRK-113,Commerce Pod,Member 31
+LRK-1150,Returns - Raw Vault ETL,2026-03-09 11:09:03.050,Ready for QA,Ready for Acceptance,Done,2026-02-04 15:55:19,5.0,LRK-113,Commerce Pod,Member 31
+LRK-1150,Returns - Raw Vault ETL,2026-03-09 09:40:14.800,In Progress,Ready for QA,Done,2026-02-04 15:55:19,5.0,LRK-113,Commerce Pod,Member 31
+LRK-1150,Returns - Raw Vault ETL,2026-03-02 10:55:07.000,To Do,In Progress,Done,2026-02-04 15:55:19,5.0,LRK-113,Commerce Pod,Member 31
+LRK-1151,Returns - Business Vault Model,2026-02-23 16:02:13.000,Ready for Acceptance,Done,Done,2025-12-14 08:39:53,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1151,Returns - Business Vault Model,2026-02-20 18:32:13.750,Ready for QA,Ready for Acceptance,Done,2025-12-14 08:39:53,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1151,Returns - Business Vault Model,2026-02-17 22:42:15.000,In Progress,Ready for QA,Done,2025-12-14 08:39:53,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1151,Returns - Business Vault Model,2026-02-04 08:42:18.000,To Do,In Progress,Done,2025-12-14 08:39:53,1.0,LRK-113,Commerce Pod,Member 33
+LRK-1152,Returns - Business Vault QA,2026-03-09 14:00:50.000,Ready for QA,Ready for Acceptance,Done,2026-02-10 09:45:27,8.0,LRK-113,Commerce Pod,Member 34
+LRK-1152,Returns - Business Vault QA,2026-03-09 14:00:50.000,Ready for Acceptance,Done,Done,2026-02-10 09:45:27,8.0,LRK-113,Commerce Pod,Member 34
+LRK-1152,Returns - Business Vault QA,2026-03-04 16:24:50.800,In Progress,Ready for QA,Done,2026-02-10 09:45:27,8.0,LRK-113,Commerce Pod,Member 34
+LRK-1152,Returns - Business Vault QA,2026-02-25 08:00:52.000,To Do,In Progress,Done,2026-02-10 09:45:27,8.0,LRK-113,Commerce Pod,Member 34
+LRK-1153,Returns - Info Mart Model,2026-05-06 13:54:35.000,Ready for Acceptance,Done,Done,2026-03-23 11:33:12,2.0,LRK-113,Commerce Pod,Member 33
+LRK-1153,Returns - Info Mart Model,2026-05-05 12:12:24.200,Ready for QA,Ready for Acceptance,Done,2026-03-23 11:33:12,2.0,LRK-113,Commerce Pod,Member 33
+LRK-1153,Returns - Info Mart Model,2026-05-04 17:22:06.200,In Progress,Ready for QA,Done,2026-03-23 11:33:12,2.0,LRK-113,Commerce Pod,Member 33
+LRK-1153,Returns - Info Mart Model,2026-04-29 10:33:23.000,To Do,In Progress,Done,2026-03-23 11:33:12,2.0,LRK-113,Commerce Pod,Member 33
+LRK-1154,Returns - Info Mart QA,2026-05-21 17:30:17.000,Ready for Acceptance,Done,Done,2026-04-17 14:46:29,2.0,LRK-113,Commerce Pod,Member 34
+LRK-1154,Returns - Info Mart QA,2026-05-21 05:19:49.700,Ready for QA,Ready for Acceptance,Done,2026-04-17 14:46:29,2.0,LRK-113,Commerce Pod,Member 34
+LRK-1154,Returns - Info Mart QA,2026-05-20 09:02:24.200,In Progress,Ready for QA,Done,2026-04-17 14:46:29,2.0,LRK-113,Commerce Pod,Member 34
+LRK-1154,Returns - Info Mart QA,2026-05-18 08:20:35.000,To Do,In Progress,Done,2026-04-17 14:46:29,2.0,LRK-113,Commerce Pod,Member 34
+LRK-1155,Returns - Dashboard Build,2026-01-16 17:31:07.000,Ready for Acceptance,Done,Done,2025-12-29 08:43:51,5.0,LRK-113,Commerce Pod,Member 35
+LRK-1155,Returns - Dashboard Build,2026-01-15 15:11:35.650,Ready for QA,Ready for Acceptance,Done,2025-12-29 08:43:51,5.0,LRK-113,Commerce Pod,Member 35
+LRK-1155,Returns - Dashboard Build,2026-01-13 19:19:03.400,In Progress,Ready for QA,Done,2025-12-29 08:43:51,5.0,LRK-113,Commerce Pod,Member 35
+LRK-1155,Returns - Dashboard Build,2026-01-09 10:00:58.000,To Do,In Progress,Done,2025-12-29 08:43:51,5.0,LRK-113,Commerce Pod,Member 35
+LRK-1156,Returns - Data Validation,2026-02-09 17:36:53.000,Ready for Acceptance,Done,Done,2026-01-04 11:38:43,1.0,LRK-113,Commerce Pod,Member 34
+LRK-1156,Returns - Data Validation,2026-02-09 02:04:36.800,Ready for QA,Ready for Acceptance,Done,2026-01-04 11:38:43,1.0,LRK-113,Commerce Pod,Member 34
+LRK-1156,Returns - Data Validation,2026-02-09 00:10:49.800,In Progress,Ready for QA,Done,2026-01-04 11:38:43,1.0,LRK-113,Commerce Pod,Member 34
+LRK-1156,Returns - Data Validation,2026-02-05 10:01:45.000,To Do,In Progress,Done,2026-01-04 11:38:43,1.0,LRK-113,Commerce Pod,Member 34
+LRK-1157,Basket Events - Staging ETL,2026-01-21 16:31:07.000,Ready for Acceptance,Done,Done,2025-12-10 08:36:36,2.0,LRK-114,Commerce Pod,Member 32
+LRK-1157,Basket Events - Staging ETL,2026-01-20 10:39:11.800,Ready for QA,Ready for Acceptance,Done,2025-12-10 08:36:36,2.0,LRK-114,Commerce Pod,Member 32
+LRK-1157,Basket Events - Staging ETL,2026-01-20 08:52:39.800,In Progress,Ready for QA,Done,2025-12-10 08:36:36,2.0,LRK-114,Commerce Pod,Member 32
+LRK-1157,Basket Events - Staging ETL,2026-01-13 09:24:59.000,To Do,In Progress,Done,2025-12-10 08:36:36,2.0,LRK-114,Commerce Pod,Member 32
+LRK-1158,Basket Events - Staging QA,2026-01-26 13:06:16.000,Ready for Acceptance,Done,Done,2026-01-15 11:32:42,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1158,Basket Events - Staging QA,2026-01-26 06:52:42.000,In Progress,Ready for QA,Done,2026-01-15 11:32:42,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1158,Basket Events - Staging QA,2026-01-26 06:52:42.000,Ready for QA,Ready for Acceptance,Done,2026-01-15 11:32:42,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1158,Basket Events - Staging QA,2026-01-23 09:32:21.000,To Do,In Progress,Done,2026-01-15 11:32:42,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1159,Basket Events - Raw Vault Model,2026-03-10 15:45:36.000,Ready for Acceptance,Done,Done,2026-01-03 10:21:19,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1159,Basket Events - Raw Vault Model,2026-03-09 16:01:06.600,Ready for QA,Ready for Acceptance,Done,2026-01-03 10:21:19,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1159,Basket Events - Raw Vault Model,2026-03-05 08:26:57.600,In Progress,Ready for QA,Done,2026-01-03 10:21:19,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1159,Basket Events - Raw Vault Model,2026-02-25 09:29:00.000,To Do,In Progress,Done,2026-01-03 10:21:19,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1160,Basket Events - Raw Vault QA,2026-03-17 15:59:16.000,Ready for Acceptance,Done,Done,2026-01-31 10:41:21,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1160,Basket Events - Raw Vault QA,2026-03-16 18:11:02.400,In Progress,Ready for QA,Done,2026-01-31 10:41:21,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1160,Basket Events - Raw Vault QA,2026-03-16 18:11:02.400,Ready for QA,Ready for Acceptance,Done,2026-01-31 10:41:21,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1160,Basket Events - Raw Vault QA,2026-03-10 09:28:42.000,To Do,In Progress,Done,2026-01-31 10:41:21,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1161,Basket Events - Business Vault Model,2026-01-30 14:54:26.000,Ready for Acceptance,Done,Done,2025-12-03 14:05:16,3.0,LRK-114,Commerce Pod,Member 33
+LRK-1161,Basket Events - Business Vault Model,2026-01-28 04:40:18.200,Ready for QA,Ready for Acceptance,Done,2025-12-03 14:05:16,3.0,LRK-114,Commerce Pod,Member 33
+LRK-1161,Basket Events - Business Vault Model,2026-01-26 03:36:45.200,In Progress,Ready for QA,Done,2025-12-03 14:05:16,3.0,LRK-114,Commerce Pod,Member 33
+LRK-1161,Basket Events - Business Vault Model,2026-01-14 10:40:14.000,To Do,In Progress,Done,2025-12-03 14:05:16,3.0,LRK-114,Commerce Pod,Member 33
+LRK-1162,Basket Events - Business Vault QA,2026-01-21 14:59:49.000,Ready for Acceptance,Done,Done,2026-01-08 14:35:55,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1162,Basket Events - Business Vault QA,2026-01-20 20:02:16.150,Ready for QA,Ready for Acceptance,Done,2026-01-08 14:35:55,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1162,Basket Events - Business Vault QA,2026-01-20 12:26:21.400,In Progress,Ready for QA,Done,2026-01-08 14:35:55,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1162,Basket Events - Business Vault QA,2026-01-16 08:36:10.000,To Do,In Progress,Done,2026-01-08 14:35:55,3.0,LRK-114,Commerce Pod,Member 34
+LRK-1163,Basket Events - Info Mart Model,2026-06-04 14:02:39.000,Ready for Acceptance,Done,Done,2026-04-08 15:03:09,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1163,Basket Events - Info Mart Model,2026-06-04 06:18:33.900,Ready for QA,Ready for Acceptance,Done,2026-04-08 15:03:09,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1163,Basket Events - Info Mart Model,2026-06-03 17:25:05.400,In Progress,Ready for QA,Done,2026-04-08 15:03:09,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1163,Basket Events - Info Mart Model,2026-06-02 10:28:45.000,To Do,In Progress,Done,2026-04-08 15:03:09,5.0,LRK-114,Commerce Pod,Member 33
+LRK-1164,Basket Events - Info Mart ETL,2026-05-28 14:52:39.000,Ready for Acceptance,Done,Done,2026-03-25 14:16:56,3.0,LRK-114,Commerce Pod,Member 31
+LRK-1164,Basket Events - Info Mart ETL,2026-05-26 15:21:50.850,Ready for QA,Ready for Acceptance,Done,2026-03-25 14:16:56,3.0,LRK-114,Commerce Pod,Member 31
+LRK-1164,Basket Events - Info Mart ETL,2026-05-26 08:10:30.600,In Progress,Ready for QA,Done,2026-03-25 14:16:56,3.0,LRK-114,Commerce Pod,Member 31
+LRK-1164,Basket Events - Info Mart ETL,2026-05-15 10:07:18.000,To Do,In Progress,Done,2026-03-25 14:16:56,3.0,LRK-114,Commerce Pod,Member 31
+LRK-1165,Basket Events - Info Mart QA,2026-02-18 15:59:45.000,Ready for Acceptance,Done,Done,2025-12-30 13:24:23,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1165,Basket Events - Info Mart QA,2026-02-17 17:57:07.400,In Progress,Ready for QA,Done,2025-12-30 13:24:23,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1165,Basket Events - Info Mart QA,2026-02-17 17:57:07.400,Ready for QA,Ready for Acceptance,Done,2025-12-30 13:24:23,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1165,Basket Events - Info Mart QA,2026-02-11 08:53:11.000,To Do,In Progress,Done,2025-12-30 13:24:23,5.0,LRK-114,Commerce Pod,Member 34
+LRK-1166,Basket Events - Dashboard Build,2026-05-06 14:54:50.000,Ready for Acceptance,Done,Done,2026-03-21 11:29:01,2.0,LRK-114,Commerce Pod,Member 35
+LRK-1166,Basket Events - Dashboard Build,2026-05-05 05:31:07.100,Ready for QA,Ready for Acceptance,Done,2026-03-21 11:29:01,2.0,LRK-114,Commerce Pod,Member 35
+LRK-1166,Basket Events - Dashboard Build,2026-05-04 21:51:35.600,In Progress,Ready for QA,Done,2026-03-21 11:29:01,2.0,LRK-114,Commerce Pod,Member 35
+LRK-1166,Basket Events - Dashboard Build,2026-04-27 08:16:44.000,To Do,In Progress,Done,2026-03-21 11:29:01,2.0,LRK-114,Commerce Pod,Member 35
+LRK-1167,Basket Events - Visual Report,2026-05-21 14:47:28.000,Ready for Acceptance,Done,Done,2026-04-16 11:37:26,3.0,LRK-114,Commerce Pod,Member 35
+LRK-1167,Basket Events - Visual Report,2026-05-20 12:47:44.200,Ready for QA,Ready for Acceptance,Done,2026-04-16 11:37:26,3.0,LRK-114,Commerce Pod,Member 35
+LRK-1167,Basket Events - Visual Report,2026-05-18 17:28:11.200,In Progress,Ready for QA,Done,2026-04-16 11:37:26,3.0,LRK-114,Commerce Pod,Member 35
+LRK-1167,Basket Events - Visual Report,2026-05-14 09:29:16.000,To Do,In Progress,Done,2026-04-16 11:37:26,3.0,LRK-114,Commerce Pod,Member 35
+LRK-1168,Basket Events - Prod Release Deployment,2026-04-22 15:22:58.000,Ready for Acceptance,Done,Done,2026-04-09 16:23:53,3.0,LRK-114,Commerce Pod,Member 32
+LRK-1168,Basket Events - Prod Release Deployment,2026-04-22 07:12:35.350,Ready for QA,Ready for Acceptance,Done,2026-04-09 16:23:53,3.0,LRK-114,Commerce Pod,Member 32
+LRK-1168,Basket Events - Prod Release Deployment,2026-04-21 17:35:17.600,In Progress,Ready for QA,Done,2026-04-09 16:23:53,3.0,LRK-114,Commerce Pod,Member 32
+LRK-1168,Basket Events - Prod Release Deployment,2026-04-20 08:53:47.000,To Do,In Progress,Done,2026-04-09 16:23:53,3.0,LRK-114,Commerce Pod,Member 32
+LRK-1169,Promotions - Discovery,2026-02-24 17:54:29.000,Ready for Acceptance,Done,Done,2025-12-28 14:18:46,3.0,LRK-115,Commerce Pod,Member 35
+LRK-1169,Promotions - Discovery,2026-02-23 22:27:19.250,Ready for QA,Ready for Acceptance,Done,2025-12-28 14:18:46,3.0,LRK-115,Commerce Pod,Member 35
+LRK-1169,Promotions - Discovery,2026-02-23 14:02:03.000,In Progress,Ready for QA,Done,2025-12-28 14:18:46,3.0,LRK-115,Commerce Pod,Member 35
+LRK-1169,Promotions - Discovery,2026-02-19 08:13:24.000,To Do,In Progress,Done,2025-12-28 14:18:46,3.0,LRK-115,Commerce Pod,Member 35
+LRK-1170,Promotions - Staging Model,2026-03-19 14:46:27.000,Ready for Acceptance,Done,Done,2026-01-30 11:33:29,8.0,LRK-115,Commerce Pod,Member 33
+LRK-1170,Promotions - Staging Model,2026-03-19 03:10:46.500,Ready for QA,Ready for Acceptance,Done,2026-01-30 11:33:29,8.0,LRK-115,Commerce Pod,Member 33
+LRK-1170,Promotions - Staging Model,2026-03-18 07:51:19.000,In Progress,Ready for QA,Done,2026-01-30 11:33:29,8.0,LRK-115,Commerce Pod,Member 33
+LRK-1170,Promotions - Staging Model,2026-03-16 09:28:37.000,To Do,In Progress,Done,2026-01-30 11:33:29,8.0,LRK-115,Commerce Pod,Member 33
+LRK-1171,Promotions - Business Requirements,2026-04-08 14:40:05.000,Ready for Acceptance,Done,Done,2026-03-27 12:54:28,5.0,LRK-115,Commerce Pod,Member 36
+LRK-1171,Promotions - Business Requirements,2026-04-07 19:51:06.500,Ready for QA,Ready for Acceptance,Done,2026-03-27 12:54:28,5.0,LRK-115,Commerce Pod,Member 36
+LRK-1171,Promotions - Business Requirements,2026-04-06 12:29:29.000,In Progress,Ready for QA,Done,2026-03-27 12:54:28,5.0,LRK-115,Commerce Pod,Member 36
+LRK-1171,Promotions - Business Requirements,2026-04-03 09:13:35.000,To Do,In Progress,Done,2026-03-27 12:54:28,5.0,LRK-115,Commerce Pod,Member 36
+LRK-1172,Promotions - Raw Vault Model,2026-05-12 14:52:59.000,Ready for Acceptance,Done,Done,2025-12-10 11:45:04,3.0,LRK-115,Commerce Pod,Member 33
+LRK-1172,Promotions - Raw Vault Model,2026-04-27 23:40:19.700,Ready for QA,Ready for Acceptance,Done,2025-12-10 11:45:04,3.0,LRK-115,Commerce Pod,Member 33
+LRK-1172,Promotions - Raw Vault Model,2026-03-31 22:19:14.200,In Progress,Ready for QA,Done,2025-12-10 11:45:04,3.0,LRK-115,Commerce Pod,Member 33
+LRK-1172,Promotions - Raw Vault Model,2026-01-28 09:28:37.000,To Do,In Progress,Done,2025-12-10 11:45:04,3.0,LRK-115,Commerce Pod,Member 33
+LRK-1173,Promotions - Raw Vault ETL,2026-03-10 13:25:21.000,Ready for Acceptance,Done,Done,2026-01-05 09:22:12,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1173,Promotions - Raw Vault ETL,2026-03-09 20:04:41.400,Ready for QA,Ready for Acceptance,Done,2026-01-05 09:22:12,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1173,Promotions - Raw Vault ETL,2026-03-03 07:10:15.400,In Progress,Ready for QA,Done,2026-01-05 09:22:12,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1173,Promotions - Raw Vault ETL,2026-02-20 09:47:37.000,To Do,In Progress,Done,2026-01-05 09:22:12,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1174,Promotions - Business Vault Model,2026-01-22 15:15:47.000,To Do,Done,Done,2026-01-07 16:19:12,2.0,LRK-115,Commerce Pod,Member 33
+LRK-1175,Promotions - Business Vault ETL,2026-05-05 17:39:38.000,Ready for Acceptance,Done,Done,2026-04-03 08:49:44,1.0,LRK-115,Commerce Pod,Member 31
+LRK-1175,Promotions - Business Vault ETL,2026-05-04 16:15:29.450,Ready for QA,Ready for Acceptance,Done,2026-04-03 08:49:44,1.0,LRK-115,Commerce Pod,Member 31
+LRK-1175,Promotions - Business Vault ETL,2026-04-27 13:55:15.200,In Progress,Ready for QA,Done,2026-04-03 08:49:44,1.0,LRK-115,Commerce Pod,Member 31
+LRK-1175,Promotions - Business Vault ETL,2026-04-15 08:18:41.000,To Do,In Progress,Done,2026-04-03 08:49:44,1.0,LRK-115,Commerce Pod,Member 31
+LRK-1176,Promotions - Business Vault QA,2026-02-12 17:06:18.000,Ready for Acceptance,Done,Done,2026-01-20 09:45:13,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1176,Promotions - Business Vault QA,2026-02-11 07:33:12.900,Ready for QA,Ready for Acceptance,Done,2026-01-20 09:45:13,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1176,Promotions - Business Vault QA,2026-02-09 23:38:04.400,In Progress,Ready for QA,Done,2026-01-20 09:45:13,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1176,Promotions - Business Vault QA,2026-02-03 09:25:44.000,To Do,In Progress,Done,2026-01-20 09:45:13,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1177,Promotions - Info Mart ETL,2026-04-23 14:34:12.000,Ready for Acceptance,Done,Done,2026-04-04 12:06:48,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1177,Promotions - Info Mart ETL,2026-04-22 09:02:16.500,Ready for QA,Ready for Acceptance,Done,2026-04-04 12:06:48,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1177,Promotions - Info Mart ETL,2026-04-20 07:49:04.000,In Progress,Ready for QA,Done,2026-04-04 12:06:48,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1177,Promotions - Info Mart ETL,2026-04-15 09:41:22.000,To Do,In Progress,Done,2026-04-04 12:06:48,3.0,LRK-115,Commerce Pod,Member 31
+LRK-1178,Promotions - Info Mart QA,2026-06-02 17:51:52.000,Ready for Acceptance,Done,Done,2026-05-03 16:12:59,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1178,Promotions - Info Mart QA,2026-06-01 19:00:40.000,In Progress,Ready for QA,Done,2026-05-03 16:12:59,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1178,Promotions - Info Mart QA,2026-06-01 19:00:40.000,Ready for QA,Ready for Acceptance,Done,2026-05-03 16:12:59,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1178,Promotions - Info Mart QA,2026-05-26 08:43:52.000,To Do,In Progress,Done,2026-05-03 16:12:59,1.0,LRK-115,Commerce Pod,Member 34
+LRK-1179,Promotions - Visual Report,2026-04-14 15:31:19.000,Ready for Acceptance,Done,Done,2026-03-08 09:01:12,2.0,LRK-115,Commerce Pod,Member 35
+LRK-1179,Promotions - Visual Report,2026-04-13 17:13:43.450,Ready for QA,Ready for Acceptance,Done,2026-03-08 09:01:12,2.0,LRK-115,Commerce Pod,Member 35
+LRK-1179,Promotions - Visual Report,2026-04-13 04:04:24.200,In Progress,Ready for QA,Done,2026-03-08 09:01:12,2.0,LRK-115,Commerce Pod,Member 35
+LRK-1179,Promotions - Visual Report,2026-04-08 10:54:02.000,To Do,In Progress,Done,2026-03-08 09:01:12,2.0,LRK-115,Commerce Pod,Member 35
+LRK-1180,Promotions - Prod Release Deployment,2026-01-21 14:50:14.000,Ready for Acceptance,Done,Done,2025-12-19 14:58:14,2.0,LRK-115,Commerce Pod,Member 32
+LRK-1180,Promotions - Prod Release Deployment,2026-01-21 10:29:39.350,Ready for QA,Ready for Acceptance,Done,2025-12-19 14:58:14,2.0,LRK-115,Commerce Pod,Member 32
+LRK-1180,Promotions - Prod Release Deployment,2026-01-21 03:15:21.600,In Progress,Ready for QA,Done,2025-12-19 14:58:14,2.0,LRK-115,Commerce Pod,Member 32
+LRK-1180,Promotions - Prod Release Deployment,2026-01-20 09:53:03.000,To Do,In Progress,Done,2025-12-19 14:58:14,2.0,LRK-115,Commerce Pod,Member 32
+LRK-1181,Pipeline - Discovery,2026-03-31 17:22:09.000,Ready for Acceptance,Done,Done,2026-02-10 12:44:45,5.0,LRK-116,Sales Pod,Member 45
+LRK-1181,Pipeline - Discovery,2026-03-30 22:15:17.700,Ready for QA,Ready for Acceptance,Done,2026-02-10 12:44:45,5.0,LRK-116,Sales Pod,Member 45
+LRK-1181,Pipeline - Discovery,2026-03-30 14:23:52.200,In Progress,Ready for QA,Done,2026-02-10 12:44:45,5.0,LRK-116,Sales Pod,Member 45
+LRK-1181,Pipeline - Discovery,2026-03-26 09:56:27.000,To Do,In Progress,Done,2026-02-10 12:44:45,5.0,LRK-116,Sales Pod,Member 45
+LRK-1182,Pipeline - Staging Model,2026-02-02 14:37:22.000,Ready for QA,Ready for Acceptance,Done,2026-01-09 12:10:20,3.0,LRK-116,Sales Pod,Member 43
+LRK-1182,Pipeline - Staging Model,2026-02-02 14:37:22.000,Ready for Acceptance,Done,Done,2026-01-09 12:10:20,3.0,LRK-116,Sales Pod,Member 43
+LRK-1182,Pipeline - Staging Model,2026-02-02 03:26:50.400,In Progress,Ready for QA,Done,2026-01-09 12:10:20,3.0,LRK-116,Sales Pod,Member 43
+LRK-1182,Pipeline - Staging Model,2026-01-27 10:41:03.000,To Do,In Progress,Done,2026-01-09 12:10:20,3.0,LRK-116,Sales Pod,Member 43
+LRK-1183,Pipeline - Staging QA,2026-05-19 14:39:31.000,Ready for Acceptance,Done,Done,2026-03-23 10:43:30,3.0,LRK-116,Sales Pod,Member 44
+LRK-1183,Pipeline - Staging QA,2026-05-19 10:21:51.850,Ready for QA,Ready for Acceptance,Done,2026-03-23 10:43:30,3.0,LRK-116,Sales Pod,Member 44
+LRK-1183,Pipeline - Staging QA,2026-05-19 03:12:26.600,In Progress,Ready for QA,Done,2026-03-23 10:43:30,3.0,LRK-116,Sales Pod,Member 44
+LRK-1183,Pipeline - Staging QA,2026-05-18 10:01:50.000,To Do,In Progress,Done,2026-03-23 10:43:30,3.0,LRK-116,Sales Pod,Member 44
+LRK-1184,Pipeline - Business Requirements,2026-03-25 17:08:33.000,Ready for Acceptance,Done,Done,2026-02-01 12:07:03,3.0,LRK-116,Sales Pod,Member 46
+LRK-1184,Pipeline - Business Requirements,2026-03-24 14:53:11.250,Ready for QA,Ready for Acceptance,Done,2026-02-01 12:07:03,3.0,LRK-116,Sales Pod,Member 46
+LRK-1184,Pipeline - Business Requirements,2026-03-23 19:07:35.000,In Progress,Ready for QA,Done,2026-02-01 12:07:03,3.0,LRK-116,Sales Pod,Member 46
+LRK-1184,Pipeline - Business Requirements,2026-03-18 10:06:08.000,To Do,In Progress,Done,2026-02-01 12:07:03,3.0,LRK-116,Sales Pod,Member 46
+LRK-1185,Pipeline - Raw Vault Model,2026-06-08 16:02:56.000,Ready for Acceptance,Done,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1185,Pipeline - Raw Vault Model,2026-06-08 13:44:05.900,Ready for QA,Ready for Acceptance,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1185,Pipeline - Raw Vault Model,2026-06-05 17:52:42.400,In Progress,Ready for QA,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1185,Pipeline - Raw Vault Model,2026-06-01 08:37:22.000,To Do,In Progress,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1185,Pipeline - Raw Vault Model,2026-05-29 13:21:57.000,In Progress,To Do,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1185,Pipeline - Raw Vault Model,2026-05-28 08:21:57.000,To Do,In Progress,Done,2026-04-19 16:55:45,2.0,LRK-116,Sales Pod,Member 43
+LRK-1186,Pipeline - Business Vault Model,2026-02-13 13:30:55.000,Ready for Acceptance,Done,Done,2025-12-15 12:55:18,2.0,LRK-116,Sales Pod,Member 43
+LRK-1186,Pipeline - Business Vault Model,2026-02-12 22:18:17.050,Ready for QA,Ready for Acceptance,Done,2025-12-15 12:55:18,2.0,LRK-116,Sales Pod,Member 43
+LRK-1186,Pipeline - Business Vault Model,2026-02-11 20:57:13.800,In Progress,Ready for QA,Done,2025-12-15 12:55:18,2.0,LRK-116,Sales Pod,Member 43
+LRK-1186,Pipeline - Business Vault Model,2026-02-09 08:06:42.000,To Do,In Progress,Done,2025-12-15 12:55:18,2.0,LRK-116,Sales Pod,Member 43
+LRK-1187,Pipeline - Business Vault ETL,2026-04-10 16:14:10.000,Ready for Acceptance,Done,Done,2026-01-31 08:09:40,5.0,LRK-116,Sales Pod,Member 41
+LRK-1187,Pipeline - Business Vault ETL,2026-04-08 09:20:19.150,Ready for QA,Ready for Acceptance,Done,2026-01-31 08:09:40,5.0,LRK-116,Sales Pod,Member 41
+LRK-1187,Pipeline - Business Vault ETL,2026-04-06 13:50:34.400,In Progress,Ready for QA,Done,2026-01-31 08:09:40,5.0,LRK-116,Sales Pod,Member 41
+LRK-1187,Pipeline - Business Vault ETL,2026-03-26 10:15:11.000,To Do,In Progress,Done,2026-01-31 08:09:40,5.0,LRK-116,Sales Pod,Member 41
+LRK-1188,Pipeline - Business Vault QA,2026-01-26 13:28:51.000,Ready for QA,Ready for Acceptance,Done,2026-01-10 14:21:01,2.0,LRK-116,Sales Pod,Member 44
+LRK-1188,Pipeline - Business Vault QA,2026-01-26 13:28:51.000,Ready for Acceptance,Done,Done,2026-01-10 14:21:01,2.0,LRK-116,Sales Pod,Member 44
+LRK-1188,Pipeline - Business Vault QA,2026-01-26 02:20:01.400,In Progress,Ready for QA,Done,2026-01-10 14:21:01,2.0,LRK-116,Sales Pod,Member 44
+LRK-1188,Pipeline - Business Vault QA,2026-01-20 09:36:47.000,To Do,In Progress,Done,2026-01-10 14:21:01,2.0,LRK-116,Sales Pod,Member 44
+LRK-1189,Pipeline - Info Mart ETL,2026-02-04 17:52:59.000,Ready for Acceptance,Done,Done,2026-01-01 12:18:10,5.0,LRK-116,Sales Pod,Member 42
+LRK-1189,Pipeline - Info Mart ETL,2026-02-03 18:56:18.200,Ready for QA,Ready for Acceptance,Done,2026-01-01 12:18:10,5.0,LRK-116,Sales Pod,Member 42
+LRK-1189,Pipeline - Info Mart ETL,2026-02-02 04:41:50.200,In Progress,Ready for QA,Done,2026-01-01 12:18:10,5.0,LRK-116,Sales Pod,Member 42
+LRK-1189,Pipeline - Info Mart ETL,2026-01-29 08:55:07.000,To Do,In Progress,Done,2026-01-01 12:18:10,5.0,LRK-116,Sales Pod,Member 42
+LRK-1190,Pipeline - Info Mart QA,2026-06-02 15:15:59.000,Ready for Acceptance,Done,Done,2026-04-18 16:32:26,3.0,LRK-116,Sales Pod,Member 44
+LRK-1190,Pipeline - Info Mart QA,2026-05-29 09:48:44.300,Ready for QA,Ready for Acceptance,Done,2026-04-18 16:32:26,3.0,LRK-116,Sales Pod,Member 44
+LRK-1190,Pipeline - Info Mart QA,2026-05-22 08:43:19.800,In Progress,Ready for QA,Done,2026-04-18 16:32:26,3.0,LRK-116,Sales Pod,Member 44
+LRK-1190,Pipeline - Info Mart QA,2026-05-05 10:54:21.000,To Do,In Progress,Done,2026-04-18 16:32:26,3.0,LRK-116,Sales Pod,Member 44
+LRK-1191,Pipeline - Dashboard Build,2026-06-02 14:34:29.000,Ready for Acceptance,Done,Done,2026-04-12 14:21:47,1.0,LRK-116,Sales Pod,Member 45
+LRK-1191,Pipeline - Dashboard Build,2026-06-01 19:40:34.250,Ready for QA,Ready for Acceptance,Done,2026-04-12 14:21:47,1.0,LRK-116,Sales Pod,Member 45
+LRK-1191,Pipeline - Dashboard Build,2026-06-01 12:10:43.000,In Progress,Ready for QA,Done,2026-04-12 14:21:47,1.0,LRK-116,Sales Pod,Member 45
+LRK-1191,Pipeline - Dashboard Build,2026-05-28 08:35:04.000,To Do,In Progress,Done,2026-04-12 14:21:47,1.0,LRK-116,Sales Pod,Member 45
+LRK-1192,Pipeline - Data Validation,2026-04-13 13:58:26.000,In Progress,Ready for QA,Done,2026-02-16 10:34:41,8.0,LRK-116,Sales Pod,Member 44
+LRK-1192,Pipeline - Data Validation,2026-04-13 13:58:26.000,Ready for QA,Ready for Acceptance,Done,2026-02-16 10:34:41,8.0,LRK-116,Sales Pod,Member 44
+LRK-1192,Pipeline - Data Validation,2026-04-13 13:58:26.000,Ready for Acceptance,Done,Done,2026-02-16 10:34:41,8.0,LRK-116,Sales Pod,Member 44
+LRK-1192,Pipeline - Data Validation,2026-04-09 10:19:56.000,To Do,In Progress,Done,2026-02-16 10:34:41,8.0,LRK-116,Sales Pod,Member 44
+LRK-1193,Quotes - Discovery,2026-05-28 13:05:32.000,Ready for Acceptance,Done,Done,2026-04-13 16:59:10,3.0,LRK-117,Sales Pod,Member 45
+LRK-1193,Quotes - Discovery,2026-05-28 05:10:57.800,Ready for QA,Ready for Acceptance,Done,2026-04-13 16:59:10,3.0,LRK-117,Sales Pod,Member 45
+LRK-1193,Quotes - Discovery,2026-05-27 16:00:00.800,In Progress,Ready for QA,Done,2026-04-13 16:59:10,3.0,LRK-117,Sales Pod,Member 45
+LRK-1193,Quotes - Discovery,2026-05-26 08:21:44.000,To Do,In Progress,Done,2026-04-13 16:59:10,3.0,LRK-117,Sales Pod,Member 45
+LRK-1194,Quotes - Staging ETL,2026-06-01 13:29:13.000,Ready for QA,Ready for Acceptance,Done,2026-05-08 10:00:08,3.0,LRK-117,Sales Pod,Member 42
+LRK-1194,Quotes - Staging ETL,2026-06-01 13:29:13.000,Ready for Acceptance,Done,Done,2026-05-08 10:00:08,3.0,LRK-117,Sales Pod,Member 42
+LRK-1194,Quotes - Staging ETL,2026-06-01 12:01:25.400,In Progress,Ready for QA,Done,2026-05-08 10:00:08,3.0,LRK-117,Sales Pod,Member 42
+LRK-1194,Quotes - Staging ETL,2026-05-27 09:49:44.000,To Do,In Progress,Done,2026-05-08 10:00:08,3.0,LRK-117,Sales Pod,Member 42
+LRK-1195,Quotes - Staging Model,2026-01-26 14:05:17.000,Ready for QA,Ready for Acceptance,Done,2025-12-17 13:36:14,5.0,LRK-117,Sales Pod,Member 43
+LRK-1195,Quotes - Staging Model,2026-01-26 14:05:17.000,Ready for Acceptance,Done,Done,2025-12-17 13:36:14,5.0,LRK-117,Sales Pod,Member 43
+LRK-1195,Quotes - Staging Model,2026-01-26 02:19:19.800,In Progress,Ready for QA,Done,2025-12-17 13:36:14,5.0,LRK-117,Sales Pod,Member 43
+LRK-1195,Quotes - Staging Model,2026-01-20 08:40:24.000,To Do,In Progress,Done,2025-12-17 13:36:14,5.0,LRK-117,Sales Pod,Member 43
+LRK-1196,Quotes - Business Requirements,2026-06-04 13:28:13.000,Ready for Acceptance,Done,Done,2026-04-12 14:25:17,1.0,LRK-117,Sales Pod,Member 45
+LRK-1196,Quotes - Business Requirements,2026-06-04 05:41:44.050,Ready for QA,Ready for Acceptance,Done,2026-04-12 14:25:17,1.0,LRK-117,Sales Pod,Member 45
+LRK-1196,Quotes - Business Requirements,2026-06-03 16:44:15.800,In Progress,Ready for QA,Done,2026-04-12 14:25:17,1.0,LRK-117,Sales Pod,Member 45
+LRK-1196,Quotes - Business Requirements,2026-06-02 09:38:20.000,To Do,In Progress,Done,2026-04-12 14:25:17,1.0,LRK-117,Sales Pod,Member 45
+LRK-1197,Quotes - Raw Vault Model,2026-05-06 14:04:48.000,Ready for Acceptance,Done,Done,2026-04-08 15:14:17,3.0,LRK-117,Sales Pod,Member 43
+LRK-1197,Quotes - Raw Vault Model,2026-05-05 19:33:07.650,Ready for QA,Ready for Acceptance,Done,2026-04-08 15:14:17,3.0,LRK-117,Sales Pod,Member 43
+LRK-1197,Quotes - Raw Vault Model,2026-05-04 12:40:20.400,In Progress,Ready for QA,Done,2026-04-08 15:14:17,3.0,LRK-117,Sales Pod,Member 43
+LRK-1197,Quotes - Raw Vault Model,2026-05-01 10:33:39.000,To Do,In Progress,Done,2026-04-08 15:14:17,3.0,LRK-117,Sales Pod,Member 43
+LRK-1198,Quotes - Raw Vault QA,2026-03-19 13:30:58.000,Ready for Acceptance,Done,Done,2026-01-17 08:38:55,2.0,LRK-117,Sales Pod,Member 44
+LRK-1198,Quotes - Raw Vault QA,2026-03-19 05:50:58.450,Ready for QA,Ready for Acceptance,Done,2026-01-17 08:38:55,2.0,LRK-117,Sales Pod,Member 44
+LRK-1198,Quotes - Raw Vault QA,2026-03-18 17:04:19.200,In Progress,Ready for QA,Done,2026-01-17 08:38:55,2.0,LRK-117,Sales Pod,Member 44
+LRK-1198,Quotes - Raw Vault QA,2026-03-17 10:24:21.000,To Do,In Progress,Done,2026-01-17 08:38:55,2.0,LRK-117,Sales Pod,Member 44
+LRK-1199,Quotes - Business Vault ETL,2026-07-30 13:38:42.000,Ready for Acceptance,Done,Done,2026-03-30 15:26:31,8.0,LRK-117,Sales Pod,Member 42
+LRK-1199,Quotes - Business Vault ETL,2026-07-20 22:38:52.200,Ready for QA,Ready for Acceptance,Done,2026-03-30 15:26:31,8.0,LRK-117,Sales Pod,Member 42
+LRK-1199,Quotes - Business Vault ETL,2026-07-06 21:39:09.200,In Progress,Ready for QA,Done,2026-03-30 15:26:31,8.0,LRK-117,Sales Pod,Member 42
+LRK-1199,Quotes - Business Vault ETL,2026-05-27 09:39:50.000,To Do,In Progress,Done,2026-03-30 15:26:31,8.0,LRK-117,Sales Pod,Member 42
+LRK-1200,Quotes - Business Vault QA,2026-02-19 15:02:30.000,Ready for Acceptance,Done,Done,2026-01-05 09:46:17,2.0,LRK-117,Sales Pod,Member 44
+LRK-1200,Quotes - Business Vault QA,2026-02-19 07:05:24.000,Ready for QA,Ready for Acceptance,Done,2026-01-05 09:46:17,2.0,LRK-117,Sales Pod,Member 44
+LRK-1200,Quotes - Business Vault QA,2026-02-18 17:50:14.000,In Progress,Ready for QA,Done,2026-01-05 09:46:17,2.0,LRK-117,Sales Pod,Member 44
+LRK-1200,Quotes - Business Vault QA,2026-02-17 10:01:50.000,To Do,In Progress,Done,2026-01-05 09:46:17,2.0,LRK-117,Sales Pod,Member 44
+LRK-1201,Quotes - Info Mart Model,2026-02-18 13:36:58.000,Ready for Acceptance,Done,Done,2025-12-30 10:50:10,2.0,LRK-117,Sales Pod,Member 43
+LRK-1201,Quotes - Info Mart Model,2026-02-17 19:04:38.200,Ready for QA,Ready for Acceptance,Done,2025-12-30 10:50:10,2.0,LRK-117,Sales Pod,Member 43
+LRK-1201,Quotes - Info Mart Model,2026-02-17 12:10:45.200,In Progress,Ready for QA,Done,2025-12-30 10:50:10,2.0,LRK-117,Sales Pod,Member 43
+LRK-1201,Quotes - Info Mart Model,2026-02-13 10:01:26.000,To Do,In Progress,Done,2025-12-30 10:50:10,2.0,LRK-117,Sales Pod,Member 43
+LRK-1202,Quotes - Info Mart ETL,2026-05-08 13:27:17.000,Ready for Acceptance,Done,Done,2026-03-24 09:37:16,3.0,LRK-117,Sales Pod,Member 42
+LRK-1202,Quotes - Info Mart ETL,2026-05-07 04:30:23.000,Ready for QA,Ready for Acceptance,Done,2026-03-24 09:37:16,3.0,LRK-117,Sales Pod,Member 42
+LRK-1202,Quotes - Info Mart ETL,2026-05-04 21:35:33.000,In Progress,Ready for QA,Done,2026-03-24 09:37:16,3.0,LRK-117,Sales Pod,Member 42
+LRK-1202,Quotes - Info Mart ETL,2026-04-29 09:47:57.000,To Do,In Progress,Done,2026-03-24 09:37:16,3.0,LRK-117,Sales Pod,Member 42
+LRK-1203,Quotes - Visual Report,2026-05-20 17:53:49.000,Ready for Acceptance,Done,Done,2026-05-05 09:17:23,2.0,LRK-117,Sales Pod,Member 45
+LRK-1203,Quotes - Visual Report,2026-05-19 08:24:59.650,Ready for QA,Ready for Acceptance,Done,2026-05-05 09:17:23,2.0,LRK-117,Sales Pod,Member 45
+LRK-1203,Quotes - Visual Report,2026-05-18 00:36:57.400,In Progress,Ready for QA,Done,2026-05-05 09:17:23,2.0,LRK-117,Sales Pod,Member 45
+LRK-1203,Quotes - Visual Report,2026-05-11 10:41:40.000,To Do,In Progress,Done,2026-05-05 09:17:23,2.0,LRK-117,Sales Pod,Member 45
+LRK-1204,Quotes - Prod Release Deployment,2026-02-04 15:16:21.000,Ready for Acceptance,Done,Done,2025-12-18 11:56:09,3.0,LRK-117,Sales Pod,Member 42
+LRK-1204,Quotes - Prod Release Deployment,2026-02-04 11:01:32.700,Ready for QA,Ready for Acceptance,Done,2025-12-18 11:56:09,3.0,LRK-117,Sales Pod,Member 42
+LRK-1204,Quotes - Prod Release Deployment,2026-02-04 03:56:52.200,In Progress,Ready for QA,Done,2025-12-18 11:56:09,3.0,LRK-117,Sales Pod,Member 42
+LRK-1204,Quotes - Prod Release Deployment,2026-02-03 10:57:39.000,To Do,In Progress,Done,2025-12-18 11:56:09,3.0,LRK-117,Sales Pod,Member 42
+LRK-1205,Customer Accounts - Discovery,2026-04-29 16:14:29.000,Ready for Acceptance,Done,Done,2026-03-01 09:24:36,5.0,LRK-118,Sales Pod,Member 45
+LRK-1205,Customer Accounts - Discovery,2026-04-28 21:08:13.700,Ready for QA,Ready for Acceptance,Done,2026-03-01 09:24:36,5.0,LRK-118,Sales Pod,Member 45
+LRK-1205,Customer Accounts - Discovery,2026-04-27 13:17:48.200,In Progress,Ready for QA,Done,2026-03-01 09:24:36,5.0,LRK-118,Sales Pod,Member 45
+LRK-1205,Customer Accounts - Discovery,2026-04-24 08:52:47.000,To Do,In Progress,Done,2026-03-01 09:24:36,5.0,LRK-118,Sales Pod,Member 45
+LRK-1206,Customer Accounts - Staging Model,2026-05-20 15:40:15.000,Ready for Acceptance,Done,Done,2026-04-08 11:37:52,8.0,LRK-118,Sales Pod,Member 43
+LRK-1206,Customer Accounts - Staging Model,2026-05-19 16:59:09.600,Ready for QA,Ready for Acceptance,Done,2026-04-08 11:37:52,8.0,LRK-118,Sales Pod,Member 43
+LRK-1206,Customer Accounts - Staging Model,2026-05-18 03:10:40.600,In Progress,Ready for QA,Done,2026-04-08 11:37:52,8.0,LRK-118,Sales Pod,Member 43
+LRK-1206,Customer Accounts - Staging Model,2026-05-14 08:26:19.000,To Do,In Progress,Done,2026-04-08 11:37:52,8.0,LRK-118,Sales Pod,Member 43
+LRK-1207,Customer Accounts - Business Requirements,2026-03-31 13:19:53.000,Ready for Acceptance,Done,Done,2026-03-17 15:17:10,2.0,LRK-118,Sales Pod,Member 45
+LRK-1207,Customer Accounts - Business Requirements,2026-03-30 16:15:24.600,In Progress,Ready for QA,Done,2026-03-17 15:17:10,2.0,LRK-118,Sales Pod,Member 45
+LRK-1207,Customer Accounts - Business Requirements,2026-03-30 16:15:24.600,Ready for QA,Ready for Acceptance,Done,2026-03-17 15:17:10,2.0,LRK-118,Sales Pod,Member 45
+LRK-1207,Customer Accounts - Business Requirements,2026-03-24 08:38:42.000,To Do,In Progress,Done,2026-03-17 15:17:10,2.0,LRK-118,Sales Pod,Member 45
+LRK-1208,Customer Accounts - Raw Vault ETL,2026-05-08 15:13:13.000,Ready for Acceptance,Done,Done,2026-03-15 15:38:32,2.0,LRK-118,Sales Pod,Member 42
+LRK-1208,Customer Accounts - Raw Vault ETL,2026-05-07 12:57:37.450,Ready for QA,Ready for Acceptance,Done,2026-03-15 15:38:32,2.0,LRK-118,Sales Pod,Member 42
+LRK-1208,Customer Accounts - Raw Vault ETL,2026-05-05 17:11:38.200,In Progress,Ready for QA,Done,2026-03-15 15:38:32,2.0,LRK-118,Sales Pod,Member 42
+LRK-1208,Customer Accounts - Raw Vault ETL,2026-05-01 08:09:16.000,To Do,In Progress,Done,2026-03-15 15:38:32,2.0,LRK-118,Sales Pod,Member 42
+LRK-1209,Customer Accounts - Raw Vault QA,2026-01-26 15:31:52.000,Ready for QA,Ready for Acceptance,Done,2025-12-15 16:40:33,5.0,LRK-118,Sales Pod,Member 44
+LRK-1209,Customer Accounts - Raw Vault QA,2026-01-26 15:31:52.000,Ready for Acceptance,Done,Done,2025-12-15 16:40:33,5.0,LRK-118,Sales Pod,Member 44
+LRK-1209,Customer Accounts - Raw Vault QA,2026-01-26 04:05:05.200,In Progress,Ready for QA,Done,2025-12-15 16:40:33,5.0,LRK-118,Sales Pod,Member 44
+LRK-1209,Customer Accounts - Raw Vault QA,2026-01-20 10:54:55.000,To Do,In Progress,Done,2025-12-15 16:40:33,5.0,LRK-118,Sales Pod,Member 44
+LRK-1210,Customer Accounts - Business Vault ETL,2026-04-08 15:01:11.000,Ready for Acceptance,Done,Done,2026-01-17 14:09:09,5.0,LRK-118,Sales Pod,Member 41
+LRK-1210,Customer Accounts - Business Vault ETL,2026-04-06 13:10:45.650,Ready for QA,Ready for Acceptance,Done,2026-01-17 14:09:09,5.0,LRK-118,Sales Pod,Member 41
+LRK-1210,Customer Accounts - Business Vault ETL,2026-03-30 18:06:43.400,In Progress,Ready for QA,Done,2026-01-17 14:09:09,5.0,LRK-118,Sales Pod,Member 41
+LRK-1210,Customer Accounts - Business Vault ETL,2026-03-12 10:45:02.000,To Do,In Progress,Done,2026-01-17 14:09:09,5.0,LRK-118,Sales Pod,Member 41
+LRK-1211,Customer Accounts - Business Vault QA,2026-05-06 17:18:52.000,Ready for Acceptance,Done,Done,2026-03-19 12:26:11,2.0,LRK-118,Sales Pod,Member 44
+LRK-1211,Customer Accounts - Business Vault QA,2026-05-05 22:07:35.200,Ready for QA,Ready for Acceptance,Done,2026-03-19 12:26:11,2.0,LRK-118,Sales Pod,Member 44
+LRK-1211,Customer Accounts - Business Vault QA,2026-05-04 14:08:47.200,In Progress,Ready for QA,Done,2026-03-19 12:26:11,2.0,LRK-118,Sales Pod,Member 44
+LRK-1211,Customer Accounts - Business Vault QA,2026-05-01 09:23:40.000,To Do,In Progress,Done,2026-03-19 12:26:11,2.0,LRK-118,Sales Pod,Member 44
+LRK-1212,Customer Accounts - Info Mart Model,2026-01-16 15:25:51.000,Ready for Acceptance,Done,Done,2025-11-28 08:55:31,8.0,LRK-118,Sales Pod,Member 43
+LRK-1212,Customer Accounts - Info Mart Model,2026-01-15 06:20:32.100,Ready for QA,Ready for Acceptance,Done,2025-11-28 08:55:31,8.0,LRK-118,Sales Pod,Member 43
+LRK-1212,Customer Accounts - Info Mart Model,2026-01-12 23:11:40.600,In Progress,Ready for QA,Done,2025-11-28 08:55:31,8.0,LRK-118,Sales Pod,Member 43
+LRK-1212,Customer Accounts - Info Mart Model,2026-01-07 10:50:25.000,To Do,In Progress,Done,2025-11-28 08:55:31,8.0,LRK-118,Sales Pod,Member 43
+LRK-1213,Customer Accounts - Info Mart ETL,2026-03-26 16:22:47.000,Ready for Acceptance,Done,Done,2026-02-25 08:17:20,1.0,LRK-118,Sales Pod,Member 42
+LRK-1213,Customer Accounts - Info Mart ETL,2026-03-26 04:34:36.350,Ready for QA,Ready for Acceptance,Done,2026-02-25 08:17:20,1.0,LRK-118,Sales Pod,Member 42
+LRK-1213,Customer Accounts - Info Mart ETL,2026-03-25 08:54:18.600,In Progress,Ready for QA,Done,2026-02-25 08:17:20,1.0,LRK-118,Sales Pod,Member 42
+LRK-1213,Customer Accounts - Info Mart ETL,2026-03-23 09:41:36.000,To Do,In Progress,Done,2026-02-25 08:17:20,1.0,LRK-118,Sales Pod,Member 42
+LRK-1214,Customer Accounts - Info Mart QA,2026-05-14 16:20:14.000,Ready for Acceptance,Done,Done,2026-04-12 09:17:00,8.0,LRK-118,Sales Pod,Member 44
+LRK-1214,Customer Accounts - Info Mart QA,2026-05-14 04:24:56.750,Ready for QA,Ready for Acceptance,Done,2026-04-12 09:17:00,8.0,LRK-118,Sales Pod,Member 44
+LRK-1214,Customer Accounts - Info Mart QA,2026-05-13 08:32:48.000,In Progress,Ready for QA,Done,2026-04-12 09:17:00,8.0,LRK-118,Sales Pod,Member 44
+LRK-1214,Customer Accounts - Info Mart QA,2026-05-11 08:51:39.000,To Do,In Progress,Done,2026-04-12 09:17:00,8.0,LRK-118,Sales Pod,Member 44
+LRK-1215,Customer Accounts - Dashboard Build,2026-04-17 14:37:21.000,Ready for Acceptance,Done,Done,2026-02-26 16:12:29,3.0,LRK-118,Sales Pod,Member 45
+LRK-1215,Customer Accounts - Dashboard Build,2026-04-16 05:38:27.150,Ready for QA,Ready for Acceptance,Done,2026-02-26 16:12:29,3.0,LRK-118,Sales Pod,Member 45
+LRK-1215,Customer Accounts - Dashboard Build,2026-04-13 22:40:17.400,In Progress,Ready for QA,Done,2026-02-26 16:12:29,3.0,LRK-118,Sales Pod,Member 45
+LRK-1215,Customer Accounts - Dashboard Build,2026-04-08 10:44:42.000,To Do,In Progress,Done,2026-02-26 16:12:29,3.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-05-08 17:32:42.000,Ready for Acceptance,Done,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-05-08 01:59:48.150,Ready for QA,Ready for Acceptance,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-05-07 00:04:58.400,In Progress,Ready for QA,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-05-04 09:53:23.000,To Do,In Progress,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-04-29 13:37:29.000,In Progress,To Do,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1216,Customer Accounts - Visual Report,2026-04-28 08:37:29.000,To Do,In Progress,Done,2026-04-21 09:59:42,1.0,LRK-118,Sales Pod,Member 45
+LRK-1217,Targets - Discovery,2026-03-26 15:20:37.000,Ready for Acceptance,Done,Done,2026-01-29 15:55:51,3.0,LRK-119,Sales Pod,Member 45
+LRK-1217,Targets - Discovery,2026-03-26 07:19:31.300,Ready for QA,Ready for Acceptance,Done,2026-01-29 15:55:51,3.0,LRK-119,Sales Pod,Member 45
+LRK-1217,Targets - Discovery,2026-03-25 17:57:41.800,In Progress,Ready for QA,Done,2026-01-29 15:55:51,3.0,LRK-119,Sales Pod,Member 45
+LRK-1217,Targets - Discovery,2026-03-24 09:53:19.000,To Do,In Progress,Done,2026-01-29 15:55:51,3.0,LRK-119,Sales Pod,Member 45
+LRK-1218,Targets - Staging ETL,2026-02-19 16:43:51.000,Ready for Acceptance,Done,Done,2026-01-17 09:11:25,5.0,LRK-119,Sales Pod,Member 41
+LRK-1218,Targets - Staging ETL,2026-02-18 14:20:55.350,Ready for QA,Ready for Acceptance,Done,2026-01-17 09:11:25,5.0,LRK-119,Sales Pod,Member 41
+LRK-1218,Targets - Staging ETL,2026-02-17 18:22:42.600,In Progress,Ready for QA,Done,2026-01-17 09:11:25,5.0,LRK-119,Sales Pod,Member 41
+LRK-1218,Targets - Staging ETL,2026-02-12 08:51:00.000,To Do,In Progress,Done,2026-01-17 09:11:25,5.0,LRK-119,Sales Pod,Member 41
+LRK-1219,Targets - Staging Model,2026-05-04 17:33:44.000,Ready for QA,Ready for Acceptance,Done,2026-03-15 14:59:13,5.0,LRK-119,Sales Pod,Member 43
+LRK-1219,Targets - Staging Model,2026-05-04 17:33:44.000,Ready for Acceptance,Done,Done,2026-03-15 14:59:13,5.0,LRK-119,Sales Pod,Member 43
+LRK-1219,Targets - Staging Model,2026-05-04 14:16:28.800,In Progress,Ready for QA,Done,2026-03-15 14:59:13,5.0,LRK-119,Sales Pod,Member 43
+LRK-1219,Targets - Staging Model,2026-04-29 09:20:36.000,To Do,In Progress,Done,2026-03-15 14:59:13,5.0,LRK-119,Sales Pod,Member 43
+LRK-1220,Targets - Business Requirements,2026-03-18 13:16:59.000,Ready for Acceptance,Done,Done,2026-02-17 08:49:05,5.0,LRK-119,Sales Pod,Member 46
+LRK-1220,Targets - Business Requirements,2026-03-18 05:44:13.100,Ready for QA,Ready for Acceptance,Done,2026-02-17 08:49:05,5.0,LRK-119,Sales Pod,Member 46
+LRK-1220,Targets - Business Requirements,2026-03-17 17:09:36.600,In Progress,Ready for QA,Done,2026-02-17 08:49:05,5.0,LRK-119,Sales Pod,Member 46
+LRK-1220,Targets - Business Requirements,2026-03-16 10:58:33.000,To Do,In Progress,Done,2026-02-17 08:49:05,5.0,LRK-119,Sales Pod,Member 46
+LRK-1221,Targets - Raw Vault Model,2026-04-17 13:45:56.000,Ready for Acceptance,Done,Done,2026-04-09 11:36:24,2.0,LRK-119,Sales Pod,Member 43
+LRK-1221,Targets - Raw Vault Model,2026-04-17 02:06:53.600,Ready for QA,Ready for Acceptance,Done,2026-04-09 11:36:24,2.0,LRK-119,Sales Pod,Member 43
+LRK-1221,Targets - Raw Vault Model,2026-04-16 06:41:49.600,In Progress,Ready for QA,Done,2026-04-09 11:36:24,2.0,LRK-119,Sales Pod,Member 43
+LRK-1221,Targets - Raw Vault Model,2026-04-14 08:05:40.000,To Do,In Progress,Done,2026-04-09 11:36:24,2.0,LRK-119,Sales Pod,Member 43
+LRK-1222,Targets - Raw Vault ETL,2026-04-16 09:12:50.600,In Progress,Ready for QA,Ready for QA,2026-02-15 14:43:57,5.0,LRK-119,Sales Pod,Member 42
+LRK-1222,Targets - Raw Vault ETL,2026-04-08 09:23:02.000,To Do,In Progress,Ready for QA,2026-02-15 14:43:57,5.0,LRK-119,Sales Pod,Member 42
+LRK-1223,Targets - Raw Vault QA,2026-04-27 17:31:39.000,Ready for Acceptance,Done,Done,2026-03-24 16:30:22,5.0,LRK-119,Sales Pod,Member 44
+LRK-1223,Targets - Raw Vault QA,2026-04-27 15:18:11.850,Ready for QA,Ready for Acceptance,Done,2026-03-24 16:30:22,5.0,LRK-119,Sales Pod,Member 44
+LRK-1223,Targets - Raw Vault QA,2026-04-24 19:35:46.600,In Progress,Ready for QA,Done,2026-03-24 16:30:22,5.0,LRK-119,Sales Pod,Member 44
+LRK-1223,Targets - Raw Vault QA,2026-04-20 10:41:58.000,To Do,In Progress,Done,2026-03-24 16:30:22,5.0,LRK-119,Sales Pod,Member 44
+LRK-1224,Targets - Business Vault Model,2026-03-31 16:36:01.000,Ready for Acceptance,Done,Done,2026-02-10 08:44:02,5.0,LRK-119,Sales Pod,Member 43
+LRK-1224,Targets - Business Vault Model,2026-03-30 13:18:06.550,Ready for QA,Ready for Acceptance,Done,2026-02-10 08:44:02,5.0,LRK-119,Sales Pod,Member 43
+LRK-1224,Targets - Business Vault Model,2026-03-25 23:48:15.800,In Progress,Ready for QA,Done,2026-02-10 08:44:02,5.0,LRK-119,Sales Pod,Member 43
+LRK-1224,Targets - Business Vault Model,2026-03-17 10:36:38.000,To Do,In Progress,Done,2026-02-10 08:44:02,5.0,LRK-119,Sales Pod,Member 43
+LRK-1225,Targets - Business Vault ETL,2026-02-19 13:40:26.000,Ready for Acceptance,Done,Done,2026-01-11 10:50:56,8.0,LRK-119,Sales Pod,Member 41
+LRK-1225,Targets - Business Vault ETL,2026-02-18 04:27:23.750,Ready for QA,Ready for Acceptance,Done,2026-01-11 10:50:56,8.0,LRK-119,Sales Pod,Member 41
+LRK-1225,Targets - Business Vault ETL,2026-02-17 21:05:40.000,In Progress,Ready for QA,Done,2026-01-11 10:50:56,8.0,LRK-119,Sales Pod,Member 41
+LRK-1225,Targets - Business Vault ETL,2026-02-10 08:13:31.000,To Do,In Progress,Done,2026-01-11 10:50:56,8.0,LRK-119,Sales Pod,Member 41
+LRK-1226,Targets - Info Mart ETL,2026-04-02 16:42:22.000,Ready for Acceptance,Done,Done,2026-02-18 08:10:16,3.0,LRK-119,Sales Pod,Member 42
+LRK-1226,Targets - Info Mart ETL,2026-04-01 17:48:15.400,Ready for QA,Ready for Acceptance,Done,2026-02-18 08:10:16,3.0,LRK-119,Sales Pod,Member 42
+LRK-1226,Targets - Info Mart ETL,2026-03-31 03:38:04.400,In Progress,Ready for QA,Done,2026-02-18 08:10:16,3.0,LRK-119,Sales Pod,Member 42
+LRK-1226,Targets - Info Mart ETL,2026-03-27 08:01:38.000,To Do,In Progress,Done,2026-02-18 08:10:16,3.0,LRK-119,Sales Pod,Member 42
+LRK-1227,Targets - Info Mart QA,2026-04-14 18:53:00.400,In Progress,Ready for QA,Ready for QA,2026-02-17 15:19:27,3.0,LRK-119,Sales Pod,Member 44
+LRK-1227,Targets - Info Mart QA,2026-04-13 08:26:52.000,To Do,In Progress,Ready for QA,2026-02-17 15:19:27,3.0,LRK-119,Sales Pod,Member 44
+LRK-1228,Targets - Data Validation,2026-04-03 13:57:28.000,To Do,Done,Done,2026-02-24 11:21:15,2.0,LRK-119,Sales Pod,Member 44
+LRK-1229,Territories - Staging ETL,2026-03-02 21:15:20.400,In Progress,Ready for QA,Ready for QA,2025-12-28 09:35:31,3.0,LRK-120,Sales Pod,Member 41
+LRK-1229,Territories - Staging ETL,2026-02-25 09:06:45.000,To Do,In Progress,Ready for QA,2025-12-28 09:35:31,3.0,LRK-120,Sales Pod,Member 41
+LRK-1230,Territories - Staging Model,2026-06-04 14:12:45.000,Ready for Acceptance,Done,Done,2026-04-22 16:40:41,2.0,LRK-120,Sales Pod,Member 43
+LRK-1230,Territories - Staging Model,2026-06-04 06:26:59.100,Ready for QA,Ready for Acceptance,Done,2026-04-22 16:40:41,2.0,LRK-120,Sales Pod,Member 43
+LRK-1230,Territories - Staging Model,2026-06-03 17:30:42.600,In Progress,Ready for QA,Done,2026-04-22 16:40:41,2.0,LRK-120,Sales Pod,Member 43
+LRK-1230,Territories - Staging Model,2026-06-02 10:27:39.000,To Do,In Progress,Done,2026-04-22 16:40:41,2.0,LRK-120,Sales Pod,Member 43
+LRK-1231,Territories - Staging QA,2026-04-28 16:05:39.000,Ready for Acceptance,Done,Done,2026-03-31 12:42:15,2.0,LRK-120,Sales Pod,Member 44
+LRK-1231,Territories - Staging QA,2026-04-28 00:36:21.000,Ready for QA,Ready for Acceptance,Done,2026-03-31 12:42:15,2.0,LRK-120,Sales Pod,Member 44
+LRK-1231,Territories - Staging QA,2026-04-27 22:47:31.000,In Progress,Ready for QA,Done,2026-03-31 12:42:15,2.0,LRK-120,Sales Pod,Member 44
+LRK-1231,Territories - Staging QA,2026-04-24 08:50:19.000,To Do,In Progress,Done,2026-03-31 12:42:15,2.0,LRK-120,Sales Pod,Member 44
+LRK-1232,Territories - Business Requirements,2026-03-19 15:45:28.000,Ready for Acceptance,Done,Done,2026-02-14 14:50:58,5.0,LRK-120,Sales Pod,Member 46
+LRK-1232,Territories - Business Requirements,2026-03-18 13:49:35.950,Ready for QA,Ready for Acceptance,Done,2026-02-14 14:50:58,5.0,LRK-120,Sales Pod,Member 46
+LRK-1232,Territories - Business Requirements,2026-03-16 18:36:29.200,In Progress,Ready for QA,Done,2026-02-14 14:50:58,5.0,LRK-120,Sales Pod,Member 46
+LRK-1232,Territories - Business Requirements,2026-03-12 10:53:01.000,To Do,In Progress,Done,2026-02-14 14:50:58,5.0,LRK-120,Sales Pod,Member 46
+LRK-1233,Territories - Raw Vault Model,2026-06-04 13:50:13.000,Ready for Acceptance,Done,Done,2026-05-19 13:47:03,3.0,LRK-120,Sales Pod,Member 43
+LRK-1233,Territories - Raw Vault Model,2026-06-03 08:32:32.350,Ready for QA,Ready for Acceptance,Done,2026-05-19 13:47:03,3.0,LRK-120,Sales Pod,Member 43
+LRK-1233,Territories - Raw Vault Model,2026-06-01 07:43:04.600,In Progress,Ready for QA,Done,2026-05-19 13:47:03,3.0,LRK-120,Sales Pod,Member 43
+LRK-1233,Territories - Raw Vault Model,2026-05-27 10:32:22.000,To Do,In Progress,Done,2026-05-19 13:47:03,3.0,LRK-120,Sales Pod,Member 43
+LRK-1234,Territories - Raw Vault QA,2026-03-11 17:10:00.000,Ready for Acceptance,Done,Done,2026-01-15 10:04:12,2.0,LRK-120,Sales Pod,Member 44
+LRK-1234,Territories - Raw Vault QA,2026-03-11 12:12:53.250,Ready for QA,Ready for Acceptance,Done,2026-01-15 10:04:12,2.0,LRK-120,Sales Pod,Member 44
+LRK-1234,Territories - Raw Vault QA,2026-03-11 03:57:42.000,In Progress,Ready for QA,Done,2026-01-15 10:04:12,2.0,LRK-120,Sales Pod,Member 44
+LRK-1234,Territories - Raw Vault QA,2026-03-10 08:09:15.000,To Do,In Progress,Done,2026-01-15 10:04:12,2.0,LRK-120,Sales Pod,Member 44
+LRK-1235,Territories - Business Vault Model,2026-06-08 14:34:11.000,Ready for Acceptance,Done,Done,2026-05-23 10:40:44,8.0,LRK-120,Sales Pod,Member 43
+LRK-1235,Territories - Business Vault Model,2026-06-08 12:27:44.450,Ready for QA,Ready for Acceptance,Done,2026-05-23 10:40:44,8.0,LRK-120,Sales Pod,Member 43
+LRK-1235,Territories - Business Vault Model,2026-06-05 16:57:00.200,In Progress,Ready for QA,Done,2026-05-23 10:40:44,8.0,LRK-120,Sales Pod,Member 43
+LRK-1235,Territories - Business Vault Model,2026-06-01 08:31:14.000,To Do,In Progress,Done,2026-05-23 10:40:44,8.0,LRK-120,Sales Pod,Member 43
+LRK-1236,Territories - Business Vault ETL,2026-04-14 14:38:54.000,Ready for Acceptance,Done,Done,2026-02-24 10:37:23,2.0,LRK-120,Sales Pod,Member 41
+LRK-1236,Territories - Business Vault ETL,2026-04-13 08:53:58.950,Ready for QA,Ready for Acceptance,Done,2026-02-24 10:37:23,2.0,LRK-120,Sales Pod,Member 41
+LRK-1236,Territories - Business Vault ETL,2026-04-13 07:19:07.200,In Progress,Ready for QA,Done,2026-02-24 10:37:23,2.0,LRK-120,Sales Pod,Member 41
+LRK-1236,Territories - Business Vault ETL,2026-04-06 08:19:27.000,To Do,In Progress,Done,2026-02-24 10:37:23,2.0,LRK-120,Sales Pod,Member 41
+LRK-1237,Territories - Business Vault QA,2026-04-03 14:16:56.000,Ready for Acceptance,Done,Done,2026-02-02 14:37:29,3.0,LRK-120,Sales Pod,Member 44
+LRK-1237,Territories - Business Vault QA,2026-04-03 02:43:01.100,Ready for QA,Ready for Acceptance,Done,2026-02-02 14:37:29,3.0,LRK-120,Sales Pod,Member 44
+LRK-1237,Territories - Business Vault QA,2026-04-02 07:26:29.600,In Progress,Ready for QA,Done,2026-02-02 14:37:29,3.0,LRK-120,Sales Pod,Member 44
+LRK-1237,Territories - Business Vault QA,2026-03-31 09:10:50.000,To Do,In Progress,Done,2026-02-02 14:37:29,3.0,LRK-120,Sales Pod,Member 44
+LRK-1238,Territories - Info Mart ETL,2026-04-09 14:04:05.000,Ready for Acceptance,Done,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1238,Territories - Info Mart ETL,2026-04-09 02:40:05.300,Ready for QA,Ready for Acceptance,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1238,Territories - Info Mart ETL,2026-04-08 07:40:05.800,In Progress,Ready for QA,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1238,Territories - Info Mart ETL,2026-04-06 10:04:07.000,To Do,In Progress,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1238,Territories - Info Mart ETL,2026-04-02 13:51:07.000,In Progress,To Do,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1238,Territories - Info Mart ETL,2026-04-01 08:51:07.000,To Do,In Progress,Done,2026-03-12 14:36:39,2.0,LRK-120,Sales Pod,Member 41
+LRK-1239,Territories - Info Mart QA,2026-03-10 13:09:35.000,Ready for Acceptance,Done,Done,2026-01-04 14:24:19,1.0,LRK-120,Sales Pod,Member 44
+LRK-1239,Territories - Info Mart QA,2026-03-06 14:57:38.000,Ready for QA,Ready for Acceptance,Done,2026-01-04 14:24:19,1.0,LRK-120,Sales Pod,Member 44
+LRK-1239,Territories - Info Mart QA,2026-03-02 01:57:43.000,In Progress,Ready for QA,Done,2026-01-04 14:24:19,1.0,LRK-120,Sales Pod,Member 44
+LRK-1239,Territories - Info Mart QA,2026-02-12 09:09:55.000,To Do,In Progress,Done,2026-01-04 14:24:19,1.0,LRK-120,Sales Pod,Member 44
+LRK-1240,Territories - Dashboard Build,2026-04-08 14:17:33.000,Ready for Acceptance,Done,Done,2026-03-10 08:33:30,8.0,LRK-120,Sales Pod,Member 45
+LRK-1240,Territories - Dashboard Build,2026-04-07 15:57:34.200,Ready for QA,Ready for Acceptance,Done,2026-03-10 08:33:30,8.0,LRK-120,Sales Pod,Member 45
+LRK-1240,Territories - Dashboard Build,2026-04-06 02:44:16.200,In Progress,Ready for QA,Done,2026-03-10 08:33:30,8.0,LRK-120,Sales Pod,Member 45
+LRK-1240,Territories - Dashboard Build,2026-04-02 09:24:21.000,To Do,In Progress,Done,2026-03-10 08:33:30,8.0,LRK-120,Sales Pod,Member 45
